@@ -62,7 +62,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148149
+            "stars": 148153
           }
         },
         {
@@ -73,10 +73,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T18:36:15Z",
+            "last_commit": "2026-08-14T06:33:56Z",
             "owner": "mozilla",
             "repo": "pdf.js",
-            "stars": 53730
+            "stars": 53731
           }
         },
         {
@@ -249,7 +249,7 @@
             "last_commit": "2024-01-16T20:27:54Z",
             "owner": "interagent",
             "repo": "http-api-design",
-            "stars": 13686
+            "stars": 13685
           }
         },
         {
@@ -311,7 +311,7 @@
             "last_commit": "2023-05-09T17:23:08Z",
             "owner": "nytimes",
             "repo": "objective-c-style-guide",
-            "stars": 5818
+            "stars": 5819
           }
         },
         {
@@ -325,7 +325,7 @@
             "last_commit": "2017-11-08T16:05:41Z",
             "owner": "github",
             "repo": "swift-style-guide",
-            "stars": 4758
+            "stars": 4759
           }
         },
         {
@@ -401,7 +401,7 @@
             "last_commit": "2026-07-20T10:56:34Z",
             "owner": "rubocop",
             "repo": "ruby-style-guide",
-            "stars": 16554
+            "stars": 16552
           }
         },
         {
@@ -455,7 +455,7 @@
             "last_commit": "2017-11-08T16:05:41Z",
             "owner": "github",
             "repo": "swift-style-guide",
-            "stars": 4758
+            "stars": 4759
           }
         },
         {
@@ -491,7 +491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T21:07:25.648Z",
+    "last_updated": "2026-08-14T20:49:44.916Z",
     "original_repository": "RichardLitt/awesome-styleguides",
     "original_repository_sha": "f91d4ffee5e83bca75258a46afef7c1a82d16976",
     "enhanced_repository": "enhansome/enhansome-styleguides",
