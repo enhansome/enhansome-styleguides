@@ -51,7 +51,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 # Other Styleguide Lists
 
-* [Narkoz](https://github.com/narkoz/guides) ⭐ 2,419 | 🐛 3 | 📅 2025-07-02
+* [Narkoz](https://github.com/narkoz/guides) ⭐ 2,418 | 🐛 3 | 📅 2025-07-02
 * [SalGnt](https://github.com/SalGnt/cscs) ⭐ 1,507 | 🐛 0 | 📅 2022-10-29
 * [Styleguides.io](https://github.com/maban/styleguides) ⭐ 936 | 🐛 25 | 🌐 HTML | 📅 2026-02-13
 * [Brand Style Guides](https://saijogeorge.com/brand-style-guide-examples/) - A beautiful website that lists where to find other styleguides. Maintained by [@SaijoGeorge](https://twitter.com/SaijoGeorge).
@@ -108,8 +108,8 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## JavaScript
 
-* [Airbnb](https://github.com/airbnb/javascript) ⭐ 148,153 | 🐛 162 | 🌐 JavaScript | 📅 2026-04-16
-* [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide) ⭐ 53,731 | 🐛 422 | 🌐 JavaScript | 📅 2026-08-14
+* [Airbnb](https://github.com/airbnb/javascript) ⭐ 148,139 | 🐛 162 | 🌐 JavaScript | 📅 2026-04-16
+* [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide) ⭐ 53,735 | 🐛 419 | 🌐 JavaScript | 📅 2026-08-15
 * [feross/standard](https://github.com/feross/standard) ⭐ 29,427 | 🐛 130 | 🌐 JavaScript | 📅 2025-07-11
 * [jscs](https://github.com/jscs-dev/node-jscs) ⚠️ Archived
 * [bevacqua's JS sg](https://github.com/bevacqua/js) ⭐ 2,982 | 🐛 19 | 📅 2023-11-07
@@ -131,7 +131,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ### CoffeeScript
 
-* [Polarmobile](https://github.com/polarmobile/coffeescript-style-guide) ⭐ 1,630 | 🐛 18 | 📅 2018-11-08
+* [Polarmobile](https://github.com/polarmobile/coffeescript-style-guide) ⭐ 1,629 | 🐛 18 | 📅 2018-11-08
 
 ### HTTP Design
 
@@ -195,11 +195,11 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [PEP 8 Offical Style Guide for Python](https://pep8.org/)
 * [PEP 257 - Docstring Conventions](http://legacy.python.org/dev/peps/pep-0257/)
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/writing/style/)
-* [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,890 | 🐛 22 | 🌐 Python | 📅 2026-08-14 - The strictest and most opinionated Python styleguide and linter ever.
+* [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,890 | 🐛 23 | 🌐 Python | 📅 2026-08-14 - The strictest and most opinionated Python styleguide and linter ever.
 
 ## Ruby
 
-* [bbatsov](https://github.com/bbatsov/ruby-style-guide) ⭐ 16,552 | 🐛 74 | 📅 2026-07-20
+* [bbatsov](https://github.com/bbatsov/ruby-style-guide) ⭐ 16,551 | 🐛 74 | 📅 2026-07-20
 * [Airbnb](https://github.com/airbnb/ruby) ⭐ 3,891 | 🐛 17 | 🌐 Ruby | 📅 2025-12-19
 * [GitHub](https://github.com/styleguide/ruby) - Based on bbatsov style guide.
 
@@ -215,7 +215,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 * [raywenderlich](https://github.com/raywenderlich/swift-style-guide) ⭐ 13,162 | 🐛 16 | 📅 2025-04-01
 * [GitHub](https://github.com/github/swift-style-guide) ⚠️ Archived
-* [Airbnb](https://github.com/airbnb/swift) ⭐ 2,738 | 🐛 0 | 🌐 Markdown | 📅 2026-08-06
+* [Airbnb](https://github.com/airbnb/swift) ⭐ 2,740 | 🐛 0 | 🌐 Markdown | 📅 2026-08-06
 * [SlideShareInc](https://github.com/SlideShareInc/swift-style-guide) ⭐ 93 | 🐛 0 | 📅 2016-06-05
 
 # Non-Code
@@ -238,4 +238,4 @@ To the extent possible under law, [Richard Littauer](http://burntfen.com) has wa
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._

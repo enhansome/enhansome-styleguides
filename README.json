@@ -62,7 +62,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148153
+            "stars": 148139
           }
         },
         {
@@ -73,10 +73,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T06:33:56Z",
+            "last_commit": "2026-08-15T15:49:27Z",
             "owner": "mozilla",
             "repo": "pdf.js",
-            "stars": 53731
+            "stars": 53735
           }
         },
         {
@@ -401,7 +401,7 @@
             "last_commit": "2026-07-20T10:56:34Z",
             "owner": "rubocop",
             "repo": "ruby-style-guide",
-            "stars": 16552
+            "stars": 16551
           }
         },
         {
@@ -469,7 +469,7 @@
             "last_commit": "2026-08-06T18:54:24Z",
             "owner": "airbnb",
             "repo": "swift",
-            "stars": 2738
+            "stars": 2740
           }
         },
         {
@@ -491,7 +491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T20:49:44.916Z",
+    "last_updated": "2026-08-15T20:43:11.228Z",
     "original_repository": "RichardLitt/awesome-styleguides",
     "original_repository_sha": "f91d4ffee5e83bca75258a46afef7c1a82d16976",
     "enhanced_repository": "enhansome/enhansome-styleguides",
