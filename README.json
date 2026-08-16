@@ -62,7 +62,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148139
+            "stars": 148150
           }
         },
         {
@@ -73,10 +73,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T15:49:27Z",
+            "last_commit": "2026-08-16T19:39:27Z",
             "owner": "mozilla",
             "repo": "pdf.js",
-            "stars": 53735
+            "stars": 53738
           }
         },
         {
@@ -187,7 +187,7 @@
             "last_commit": "2022-08-24T23:24:49Z",
             "owner": "toddmotto",
             "repo": "angularjs-styleguide",
-            "stars": 5914
+            "stars": 5912
           }
         },
         {
@@ -263,7 +263,7 @@
             "last_commit": "2025-11-14T21:13:51Z",
             "owner": "bolasblack",
             "repo": "http-api-guide",
-            "stars": 2557
+            "stars": 2553
           }
         }
       ],
@@ -401,7 +401,7 @@
             "last_commit": "2026-07-20T10:56:34Z",
             "owner": "rubocop",
             "repo": "ruby-style-guide",
-            "stars": 16551
+            "stars": 16550
           }
         },
         {
@@ -491,7 +491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T20:43:11.228Z",
+    "last_updated": "2026-08-16T20:42:18.139Z",
     "original_repository": "RichardLitt/awesome-styleguides",
     "original_repository_sha": "f91d4ffee5e83bca75258a46afef7c1a82d16976",
     "enhanced_repository": "enhansome/enhansome-styleguides",
