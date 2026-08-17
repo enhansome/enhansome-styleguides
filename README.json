@@ -62,7 +62,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148150
+            "stars": 148135
           }
         },
         {
@@ -73,10 +73,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T19:39:27Z",
+            "last_commit": "2026-08-17T19:01:56Z",
             "owner": "mozilla",
             "repo": "pdf.js",
-            "stars": 53738
+            "stars": 53741
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2025-07-11T08:28:23Z",
             "owner": "standard",
             "repo": "standard",
-            "stars": 29427
+            "stars": 29429
           }
         },
         {
@@ -104,7 +104,7 @@
             "last_commit": "2024-03-23T17:56:44Z",
             "owner": "jscs-dev",
             "repo": "node-jscs",
-            "stars": 4932
+            "stars": 4931
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2023-11-07T14:37:24Z",
             "owner": "bevacqua",
             "repo": "js",
-            "stars": 2982
+            "stars": 2981
           }
         },
         {
@@ -166,7 +166,7 @@
             "last_commit": "2026-04-30T18:23:12Z",
             "owner": "johnpapa",
             "repo": "angular-styleguide",
-            "stars": 23623
+            "stars": 23621
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2019-01-09T23:20:03Z",
             "owner": "mgechev",
             "repo": "angularjs-style-guide",
-            "stars": 4920
+            "stars": 4919
           }
         },
         {
@@ -311,7 +311,7 @@
             "last_commit": "2023-05-09T17:23:08Z",
             "owner": "nytimes",
             "repo": "objective-c-style-guide",
-            "stars": 5819
+            "stars": 5818
           }
         },
         {
@@ -325,7 +325,7 @@
             "last_commit": "2017-11-08T16:05:41Z",
             "owner": "github",
             "repo": "swift-style-guide",
-            "stars": 4759
+            "stars": 4758
           }
         },
         {
@@ -401,7 +401,7 @@
             "last_commit": "2026-07-20T10:56:34Z",
             "owner": "rubocop",
             "repo": "ruby-style-guide",
-            "stars": 16550
+            "stars": 16552
           }
         },
         {
@@ -455,7 +455,7 @@
             "last_commit": "2017-11-08T16:05:41Z",
             "owner": "github",
             "repo": "swift-style-guide",
-            "stars": 4759
+            "stars": 4758
           }
         },
         {
@@ -469,7 +469,7 @@
             "last_commit": "2026-08-06T18:54:24Z",
             "owner": "airbnb",
             "repo": "swift",
-            "stars": 2740
+            "stars": 2739
           }
         },
         {
@@ -491,7 +491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T20:42:18.139Z",
+    "last_updated": "2026-08-17T20:47:37.197Z",
     "original_repository": "RichardLitt/awesome-styleguides",
     "original_repository_sha": "f91d4ffee5e83bca75258a46afef7c1a82d16976",
     "enhanced_repository": "enhansome/enhansome-styleguides",
