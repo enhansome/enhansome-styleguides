@@ -62,7 +62,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148135
+            "stars": 148136
           }
         },
         {
@@ -73,10 +73,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T19:01:56Z",
+            "last_commit": "2026-08-18T18:14:39Z",
             "owner": "mozilla",
             "repo": "pdf.js",
-            "stars": 53741
+            "stars": 53749
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2025-07-11T08:28:23Z",
             "owner": "standard",
             "repo": "standard",
-            "stars": 29429
+            "stars": 29426
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2023-11-07T14:37:24Z",
             "owner": "bevacqua",
             "repo": "js",
-            "stars": 2981
+            "stars": 2979
           }
         },
         {
@@ -249,7 +249,7 @@
             "last_commit": "2024-01-16T20:27:54Z",
             "owner": "interagent",
             "repo": "http-api-design",
-            "stars": 13685
+            "stars": 13684
           }
         },
         {
@@ -263,7 +263,7 @@
             "last_commit": "2025-11-14T21:13:51Z",
             "owner": "bolasblack",
             "repo": "http-api-guide",
-            "stars": 2553
+            "stars": 2552
           }
         }
       ],
@@ -469,7 +469,7 @@
             "last_commit": "2026-08-06T18:54:24Z",
             "owner": "airbnb",
             "repo": "swift",
-            "stars": 2739
+            "stars": 2740
           }
         },
         {
@@ -491,7 +491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T20:47:37.197Z",
+    "last_updated": "2026-08-18T20:43:26.905Z",
     "original_repository": "RichardLitt/awesome-styleguides",
     "original_repository_sha": "f91d4ffee5e83bca75258a46afef7c1a82d16976",
     "enhanced_repository": "enhansome/enhansome-styleguides",
