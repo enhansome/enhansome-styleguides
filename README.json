@@ -30,7 +30,7 @@
             "last_commit": "2022-10-29T11:33:25Z",
             "owner": "SalGnt",
             "repo": "cscs",
-            "stars": 1507
+            "stars": 1508
           }
         },
         {
@@ -120,7 +120,7 @@
                 "last_commit": "2026-04-16T19:24:09Z",
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148132
+                "stars": 148133
               }
             },
             {
@@ -135,7 +135,7 @@
                 "last_commit": "2026-08-19T12:10:36Z",
                 "owner": "mozilla",
                 "repo": "pdf.js",
-                "stars": 53753
+                "stars": 53757
               }
             },
             {
@@ -227,7 +227,7 @@
                     "last_commit": "2026-04-30T18:23:12Z",
                     "owner": "johnpapa",
                     "repo": "angular-styleguide",
-                    "stars": 23620
+                    "stars": 23619
                   }
                 },
                 {
@@ -242,7 +242,7 @@
                     "last_commit": "2022-08-24T23:24:49Z",
                     "owner": "toddmotto",
                     "repo": "angularjs-styleguide",
-                    "stars": 5912
+                    "stars": 5911
                   }
                 },
                 {
@@ -257,7 +257,7 @@
                     "last_commit": "2019-01-09T23:20:03Z",
                     "owner": "mgechev",
                     "repo": "angularjs-style-guide",
-                    "stars": 4919
+                    "stars": 4918
                   }
                 },
                 {
@@ -366,7 +366,7 @@
                 "last_commit": "2024-04-30T09:39:34Z",
                 "owner": "futurice",
                 "repo": "ios-good-practices",
-                "stars": 10974
+                "stars": 10975
               }
             },
             {
@@ -573,7 +573,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:55:49.342Z",
+    "last_updated": "2026-08-19T20:49:00.821Z",
     "original_repository": "RichardLitt/awesome-styleguides",
     "original_repository_id": 23323231,
     "original_repository_sha": "f91d4ffee5e83bca75258a46afef7c1a82d16976",

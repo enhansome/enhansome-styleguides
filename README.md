@@ -52,7 +52,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 # Other Styleguide Lists
 
 * [Narkoz](https://github.com/narkoz/guides) ⭐ 2,418 | 🐛 3 | 📅 2025-07-02
-* [SalGnt](https://github.com/SalGnt/cscs) ⭐ 1,507 | 🐛 0 | 📅 2022-10-29
+* [SalGnt](https://github.com/SalGnt/cscs) ⭐ 1,508 | 🐛 0 | 📅 2022-10-29
 * [Styleguides.io](https://github.com/maban/styleguides) ⭐ 936 | 🐛 25 | 🌐 HTML | 📅 2026-02-13
 * [Brand Style Guides](https://saijogeorge.com/brand-style-guide-examples/) - A beautiful website that lists where to find other styleguides. Maintained by [@SaijoGeorge](https://twitter.com/SaijoGeorge).
 * [paulmillr](https://github.com/paulmillr/code-style-guides)
@@ -62,7 +62,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Generic
 
-* [frontend-guidelines](https://github.com/bendc/frontend-guidelines) ⭐ 9,116 | 🐛 5 | 📅 2023-12-30
+* [frontend-guidelines](https://github.com/bendc/frontend-guidelines) ⭐ 9,115 | 🐛 5 | 📅 2023-12-30
 * [isobar](https://isobar-idev.github.io/code-standards/)
 
 ## CSS
@@ -108,9 +108,9 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## JavaScript
 
-* [Airbnb](https://github.com/airbnb/javascript) ⭐ 148,132 | 🐛 163 | 🌐 JavaScript | 📅 2026-04-16
-* [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide) ⭐ 53,753 | 🐛 413 | 🌐 JavaScript | 📅 2026-08-19
-* [feross/standard](https://github.com/feross/standard) ⭐ 29,427 | 🐛 130 | 🌐 JavaScript | 📅 2025-07-11
+* [Airbnb](https://github.com/airbnb/javascript) ⭐ 148,133 | 🐛 163 | 🌐 JavaScript | 📅 2026-04-16
+* [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide) ⭐ 53,757 | 🐛 414 | 🌐 JavaScript | 📅 2026-08-19
+* [feross/standard](https://github.com/feross/standard) ⭐ 29,427 | 🐛 128 | 🌐 JavaScript | 📅 2025-07-11
 * [jscs](https://github.com/jscs-dev/node-jscs) ⚠️ Archived
 * [bevacqua's JS sg](https://github.com/bevacqua/js) ⭐ 2,979 | 🐛 19 | 📅 2023-11-07
 * [Khan](https://github.com/Khan/style-guides/blob/master/style/javascript.md) ⭐ 2,128 | 🐛 10 | 🌐 Shell | 📅 2024-09-06
@@ -121,10 +121,10 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ### AngularJS
 
-* [johnpapa's opinionated sg for  AngularJS](https://github.com/johnpapa/angular-styleguide) ⭐ 23,620 | 🐛 1 | 🌐 Vim Snippet | 📅 2026-04-30
-* [Todd Motto's for AngularJS](https://github.com/toddmotto/angularjs-styleguide) ⭐ 5,912 | 🐛 23 | 📅 2022-08-24
+* [johnpapa's opinionated sg for  AngularJS](https://github.com/johnpapa/angular-styleguide) ⭐ 23,619 | 🐛 1 | 🌐 Vim Snippet | 📅 2026-04-30
+* [Todd Motto's for AngularJS](https://github.com/toddmotto/angularjs-styleguide) ⭐ 5,911 | 🐛 23 | 📅 2022-08-24
   * [jmcunningham's fork](https://github.com/jmcunningham/angularjs-styleguide)
-* [mgechev's community best practices](https://github.com/mgechev/angularjs-style-guide) ⭐ 4,919 | 🐛 4 | 📅 2019-01-09
+* [mgechev's community best practices](https://github.com/mgechev/angularjs-style-guide) ⭐ 4,918 | 🐛 4 | 📅 2019-01-09
 * [gocardless](https://github.com/gocardless/angularjs-style-guide) ⭐ 1,433 | 🐛 1 | 📅 2018-11-25
 * [srph's AngularJS structure sg](https://github.com/srph/angularjs-structure-styleguide) ⭐ 270 | 🐛 2 | 📅 2016-06-22
 * [Google](https://google.github.io/styleguide/angularjs-google-style.html)
@@ -174,7 +174,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 ## Objective-C
 
 * [Swift Style Guide by @raywenderlich](https://github.com/raywenderlich/swift-style-guide) ⭐ 13,162 | 🐛 16 | 📅 2025-04-01 - The official Swift style guide for raywenderlich.com.
-* [Futurice iOS Good Practices](https://github.com/futurice/ios-good-practices) ⭐ 10,974 | 🐛 22 | 📅 2024-04-30 - iOS starting guide and good practices suggestions by [@futurice](https://github.com/futurice).
+* [Futurice iOS Good Practices](https://github.com/futurice/ios-good-practices) ⭐ 10,975 | 🐛 22 | 📅 2024-04-30 - iOS starting guide and good practices suggestions by [@futurice](https://github.com/futurice).
 * [NY Times - Objective C Style Guide](https://github.com/NYTimes/objective-c-style-guide) ⚠️ Archived - The Objective-C Style Guide used by The New York Times.
 * [GitHub - Style guide & coding conventions for Swift projects](https://github.com/github/swift-style-guide) ⚠️ Archived A guide to our Swift style and conventions by @github.
 * [raywenderlich Style Guide](https://github.com/raywenderlich/objective-c-style-guide) ⭐ 3,083 | 🐛 22 | 📅 2017-10-01 - A style guide that outlines the coding conventions for raywenderlich.com.
