@@ -68,7 +68,7 @@
                 "last_commit": "2022-12-21T12:01:30Z",
                 "owner": "necolas",
                 "repo": "idiomatic-css",
-                "stars": 6651
+                "stars": 6652
               }
             },
             {
@@ -83,7 +83,7 @@
                 "last_commit": "2023-06-07T01:56:33Z",
                 "owner": "rstacruz",
                 "repo": "rscss",
-                "stars": 3906
+                "stars": 3907
               }
             },
             {
@@ -120,7 +120,7 @@
                 "last_commit": "2026-04-16T19:24:09Z",
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148121
+                "stars": 148127
               }
             },
             {
@@ -132,7 +132,7 @@
                 "archived": false,
                 "id": 1663468,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T20:22:38Z",
+                "last_commit": "2026-08-21T12:58:15Z",
                 "owner": "mozilla",
                 "repo": "pdf.js",
                 "stars": 53762
@@ -150,7 +150,7 @@
                 "last_commit": "2025-07-11T08:28:23Z",
                 "owner": "standard",
                 "repo": "standard",
-                "stars": 29428
+                "stars": 29427
               }
             },
             {
@@ -227,7 +227,7 @@
                     "last_commit": "2026-04-30T18:23:12Z",
                     "owner": "johnpapa",
                     "repo": "angular-styleguide",
-                    "stars": 23619
+                    "stars": 23618
                   }
                 },
                 {
@@ -478,7 +478,7 @@
                 "last_commit": "2026-07-20T10:56:34Z",
                 "owner": "rubocop",
                 "repo": "ruby-style-guide",
-                "stars": 16551
+                "stars": 16550
               }
             },
             {
@@ -493,7 +493,7 @@
                 "last_commit": "2025-12-19T06:38:30Z",
                 "owner": "airbnb",
                 "repo": "ruby",
-                "stars": 3890
+                "stars": 3891
               }
             }
           ],
@@ -542,10 +542,10 @@
                 "archived": false,
                 "id": 63729462,
                 "language": "Markdown",
-                "last_commit": "2026-08-20T18:34:40Z",
+                "last_commit": "2026-08-21T18:44:08Z",
                 "owner": "airbnb",
                 "repo": "swift",
-                "stars": 2741
+                "stars": 2742
               }
             },
             {
@@ -573,7 +573,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T20:50:33.920Z",
+    "last_updated": "2026-08-21T20:44:12.053Z",
     "original_repository": "RichardLitt/awesome-styleguides",
     "original_repository_id": 23323231,
     "original_repository_sha": "f91d4ffee5e83bca75258a46afef7c1a82d16976",
