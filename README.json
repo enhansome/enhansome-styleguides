@@ -120,7 +120,7 @@
                 "last_commit": "2026-04-16T19:24:09Z",
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148127
+                "stars": 148131
               }
             },
             {
@@ -135,7 +135,7 @@
                 "last_commit": "2026-08-21T12:58:15Z",
                 "owner": "mozilla",
                 "repo": "pdf.js",
-                "stars": 53762
+                "stars": 53764
               }
             },
             {
@@ -366,7 +366,7 @@
                 "last_commit": "2024-04-30T09:39:34Z",
                 "owner": "futurice",
                 "repo": "ios-good-practices",
-                "stars": 10975
+                "stars": 10976
               }
             },
             {
@@ -396,7 +396,7 @@
                 "last_commit": "2017-11-08T16:05:41Z",
                 "owner": "github",
                 "repo": "swift-style-guide",
-                "stars": 4757
+                "stars": 4756
               }
             },
             {
@@ -530,7 +530,7 @@
                 "last_commit": "2017-11-08T16:05:41Z",
                 "owner": "github",
                 "repo": "swift-style-guide",
-                "stars": 4757
+                "stars": 4756
               }
             },
             {
@@ -545,7 +545,7 @@
                 "last_commit": "2026-08-21T18:44:08Z",
                 "owner": "airbnb",
                 "repo": "swift",
-                "stars": 2742
+                "stars": 2746
               }
             },
             {
@@ -573,7 +573,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T20:44:12.053Z",
+    "last_updated": "2026-08-22T20:43:16.090Z",
     "original_repository": "RichardLitt/awesome-styleguides",
     "original_repository_id": 23323231,
     "original_repository_sha": "f91d4ffee5e83bca75258a46afef7c1a82d16976",
