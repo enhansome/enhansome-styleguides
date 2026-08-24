@@ -179,7 +179,7 @@
                 "last_commit": "2026-08-23T15:16:25Z",
                 "owner": "mozilla",
                 "repo": "pdf.js",
-                "stars": 53773
+                "stars": 53776
               }
             },
             {
@@ -194,7 +194,7 @@
                 "last_commit": "2025-07-11T08:28:23Z",
                 "owner": "standard",
                 "repo": "standard",
-                "stars": 29429
+                "stars": 29430
               }
             },
             {
@@ -673,10 +673,10 @@
                 "archived": false,
                 "id": 124593057,
                 "language": "Python",
-                "last_commit": "2026-08-22T08:11:57Z",
+                "last_commit": "2026-08-24T17:44:04Z",
                 "owner": "wemake-services",
                 "repo": "wemake-python-styleguide",
-                "stars": 2893
+                "stars": 2892
               }
             }
           ],
@@ -713,7 +713,7 @@
                 "last_commit": "2025-12-19T06:38:30Z",
                 "owner": "airbnb",
                 "repo": "ruby",
-                "stars": 3891
+                "stars": 3892
               }
             },
             {
@@ -815,7 +815,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:17:52.738Z",
+    "last_updated": "2026-08-24T20:52:30.692Z",
     "original_repository": "RichardLitt/awesome-styleguides",
     "original_repository_id": 23323231,
     "original_repository_sha": "f91d4ffee5e83bca75258a46afef7c1a82d16976",
