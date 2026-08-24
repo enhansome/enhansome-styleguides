@@ -15,7 +15,7 @@
             "last_commit": "2025-07-02T10:02:32Z",
             "owner": "NARKOZ",
             "repo": "guides",
-            "stars": 2421
+            "stars": 2422
           }
         },
         {
@@ -54,6 +54,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "frontend-guidelines",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31125362,
+                "language": null,
+                "last_commit": "2023-12-30T16:43:09Z",
+                "owner": "bendc",
+                "repo": "frontend-guidelines",
+                "stars": 9115
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Generic"
+        },
         {
           "children": [
             {
@@ -110,6 +132,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "agis-",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33088032,
+                "language": null,
+                "last_commit": "2022-09-26T20:12:02Z",
+                "owner": "agis",
+                "repo": "git-style-guide",
+                "stars": 5115
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Git"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Airbnb",
               "description": null,
               "children": [],
@@ -135,7 +179,7 @@
                 "last_commit": "2026-08-23T15:16:25Z",
                 "owner": "mozilla",
                 "repo": "pdf.js",
-                "stars": 53768
+                "stars": 53773
               }
             },
             {
@@ -150,7 +194,7 @@
                 "last_commit": "2025-07-11T08:28:23Z",
                 "owner": "standard",
                 "repo": "standard",
-                "stars": 29428
+                "stars": 29429
               }
             },
             {
@@ -165,7 +209,7 @@
                 "last_commit": "2024-03-23T17:56:44Z",
                 "owner": "jscs-dev",
                 "repo": "node-jscs",
-                "stars": 4931
+                "stars": 4930
               }
             },
             {
@@ -210,7 +254,7 @@
                 "last_commit": "2024-11-29T00:14:41Z",
                 "owner": "rstacruz",
                 "repo": "rsjs",
-                "stars": 204
+                "stars": 205
               }
             },
             {
@@ -227,7 +271,7 @@
                     "last_commit": "2026-04-30T18:23:12Z",
                     "owner": "johnpapa",
                     "repo": "angular-styleguide",
-                    "stars": 23618
+                    "stars": 23616
                   }
                 },
                 {
@@ -299,6 +343,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Polarmobile",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3013517,
+                    "language": null,
+                    "last_commit": "2018-11-08T08:05:46Z",
+                    "owner": "polarmobile",
+                    "repo": "coffeescript-style-guide",
+                    "stars": 1629
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "CoffeeScript"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "http-api-design",
                   "description": null,
                   "children": [],
@@ -331,11 +397,143 @@
               "description": null,
               "node_type": "group",
               "title": "HTTP Design"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Pragmatic jQuery",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 8685745,
+                    "language": null,
+                    "last_commit": "2014-06-22T15:09:11Z",
+                    "owner": "yuanyan",
+                    "repo": "pragmatic-jquery",
+                    "stars": 109
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "jQuery"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "mattdesl",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 25255619,
+                    "language": "JavaScript",
+                    "last_commit": "2018-03-30T15:58:34Z",
+                    "owner": "mattdesl",
+                    "repo": "module-best-practices",
+                    "stars": 1543
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Modules"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "npm Style Guide",
+                  "description": "An opinionated collection of best practices for teams by @deVoorhoede.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 55411580,
+                    "language": null,
+                    "last_commit": "2016-07-21T11:00:58Z",
+                    "owner": "voorhoede",
+                    "repo": "npm-style-guide",
+                    "stars": 92
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "npm"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Khan",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 21282280,
+                    "language": "Shell",
+                    "last_commit": "2024-09-06T15:42:31Z",
+                    "owner": "Khan",
+                    "repo": "style-guides",
+                    "stars": 2128
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "React"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "RiotJS Style Guide",
+                  "description": "Opinionated RiotJS Style Guide for teams by @deVoorhoede.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 51641801,
+                    "language": null,
+                    "last_commit": "2019-07-08T07:33:23Z",
+                    "owner": "voorhoede",
+                    "repo": "riotjs-style-guide",
+                    "stars": 284
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Riot"
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "JavaScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "emacs-lips-style-guide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23659333,
+                "language": null,
+                "last_commit": "2026-03-31T12:31:44Z",
+                "owner": "bbatsov",
+                "repo": "emacs-lisp-style-guide",
+                "stars": 1136
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Lisp"
         },
         {
           "children": [
@@ -366,7 +564,7 @@
                 "last_commit": "2024-04-30T09:39:34Z",
                 "owner": "futurice",
                 "repo": "ios-good-practices",
-                "stars": 10976
+                "stars": 10975
               }
             },
             {
@@ -468,6 +666,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "wemake-python-styleguide",
+              "description": "The strictest and most opinionated Python styleguide and linter ever.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 124593057,
+                "language": "Python",
+                "last_commit": "2026-08-22T08:11:57Z",
+                "owner": "wemake-services",
+                "repo": "wemake-python-styleguide",
+                "stars": 2893
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "bbatsov",
               "description": null,
               "children": [],
@@ -495,6 +715,28 @@
                 "repo": "ruby",
                 "stars": 3891
               }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "bbastov's Ruby on Rails 4 styleguide",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2454047,
+                    "language": null,
+                    "last_commit": "2026-07-21T01:22:59Z",
+                    "owner": "rubocop",
+                    "repo": "rails-style-guide",
+                    "stars": 6504
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Ruby on Rails"
             }
           ],
           "description": null,
@@ -545,7 +787,7 @@
                 "last_commit": "2026-08-21T18:44:08Z",
                 "owner": "airbnb",
                 "repo": "swift",
-                "stars": 2747
+                "stars": 2748
               }
             },
             {
@@ -573,7 +815,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T20:43:27.256Z",
+    "last_updated": "2026-08-24T14:17:52.738Z",
     "original_repository": "RichardLitt/awesome-styleguides",
     "original_repository_id": 23323231,
     "original_repository_sha": "f91d4ffee5e83bca75258a46afef7c1a82d16976",
