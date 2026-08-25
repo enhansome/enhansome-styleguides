@@ -68,7 +68,7 @@
                 "last_commit": "2023-12-30T16:43:09Z",
                 "owner": "bendc",
                 "repo": "frontend-guidelines",
-                "stars": 9115
+                "stars": 9116
               }
             }
           ],
@@ -164,7 +164,7 @@
                 "last_commit": "2026-04-16T19:24:09Z",
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148132
+                "stars": 148131
               }
             },
             {
@@ -179,7 +179,7 @@
                 "last_commit": "2026-08-23T15:16:25Z",
                 "owner": "mozilla",
                 "repo": "pdf.js",
-                "stars": 53776
+                "stars": 53778
               }
             },
             {
@@ -271,7 +271,7 @@
                     "last_commit": "2026-04-30T18:23:12Z",
                     "owner": "johnpapa",
                     "repo": "angular-styleguide",
-                    "stars": 23616
+                    "stars": 23617
                   }
                 },
                 {
@@ -375,7 +375,7 @@
                     "last_commit": "2024-01-16T20:27:54Z",
                     "owner": "interagent",
                     "repo": "http-api-design",
-                    "stars": 13684
+                    "stars": 13685
                   }
                 },
                 {
@@ -390,7 +390,7 @@
                     "last_commit": "2025-11-14T21:13:51Z",
                     "owner": "bolasblack",
                     "repo": "http-api-guide",
-                    "stars": 2552
+                    "stars": 2553
                   }
                 }
               ],
@@ -762,7 +762,7 @@
             },
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "github/swift-style-guide",
               "description": null,
               "children": [],
               "repo_info": {
@@ -815,7 +815,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T20:52:30.692Z",
+    "last_updated": "2026-08-25T06:10:47.350Z",
     "original_repository": "RichardLitt/awesome-styleguides",
     "original_repository_id": 23323231,
     "original_repository_sha": "f91d4ffee5e83bca75258a46afef7c1a82d16976",
