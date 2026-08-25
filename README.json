@@ -68,7 +68,7 @@
                 "last_commit": "2023-12-30T16:43:09Z",
                 "owner": "bendc",
                 "repo": "frontend-guidelines",
-                "stars": 9116
+                "stars": 9115
               }
             }
           ],
@@ -105,7 +105,7 @@
                 "last_commit": "2023-06-07T01:56:33Z",
                 "owner": "rstacruz",
                 "repo": "rscss",
-                "stars": 3907
+                "stars": 3908
               }
             },
             {
@@ -120,7 +120,7 @@
                 "last_commit": "2015-03-27T00:27:49Z",
                 "owner": "sezgi",
                 "repo": "CSS-Best-Practices",
-                "stars": 199
+                "stars": 198
               }
             }
           ],
@@ -164,7 +164,7 @@
                 "last_commit": "2026-04-16T19:24:09Z",
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148131
+                "stars": 148134
               }
             },
             {
@@ -176,10 +176,10 @@
                 "archived": false,
                 "id": 1663468,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T15:16:25Z",
+                "last_commit": "2026-08-25T17:50:41Z",
                 "owner": "mozilla",
                 "repo": "pdf.js",
-                "stars": 53778
+                "stars": 53780
               }
             },
             {
@@ -564,7 +564,7 @@
                 "last_commit": "2024-04-30T09:39:34Z",
                 "owner": "futurice",
                 "repo": "ios-good-practices",
-                "stars": 10975
+                "stars": 10976
               }
             },
             {
@@ -673,7 +673,7 @@
                 "archived": false,
                 "id": 124593057,
                 "language": "Python",
-                "last_commit": "2026-08-24T17:44:04Z",
+                "last_commit": "2026-08-25T10:41:33Z",
                 "owner": "wemake-services",
                 "repo": "wemake-python-styleguide",
                 "stars": 2892
@@ -698,7 +698,7 @@
                 "last_commit": "2026-07-20T10:56:34Z",
                 "owner": "rubocop",
                 "repo": "ruby-style-guide",
-                "stars": 16550
+                "stars": 16549
               }
             },
             {
@@ -787,7 +787,7 @@
                 "last_commit": "2026-08-21T18:44:08Z",
                 "owner": "airbnb",
                 "repo": "swift",
-                "stars": 2748
+                "stars": 2749
               }
             },
             {
@@ -815,7 +815,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:10:47.350Z",
+    "last_updated": "2026-08-25T20:50:17.448Z",
     "original_repository": "RichardLitt/awesome-styleguides",
     "original_repository_id": 23323231,
     "original_repository_sha": "f91d4ffee5e83bca75258a46afef7c1a82d16976",
