@@ -90,7 +90,7 @@
                 "last_commit": "2022-12-21T12:01:30Z",
                 "owner": "necolas",
                 "repo": "idiomatic-css",
-                "stars": 6652
+                "stars": 6651
               }
             },
             {
@@ -105,7 +105,7 @@
                 "last_commit": "2023-06-07T01:56:33Z",
                 "owner": "rstacruz",
                 "repo": "rscss",
-                "stars": 3908
+                "stars": 3909
               }
             },
             {
@@ -164,7 +164,7 @@
                 "last_commit": "2026-04-16T19:24:09Z",
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148134
+                "stars": 148137
               }
             },
             {
@@ -176,10 +176,10 @@
                 "archived": false,
                 "id": 1663468,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T17:50:41Z",
+                "last_commit": "2026-08-26T09:54:38Z",
                 "owner": "mozilla",
                 "repo": "pdf.js",
-                "stars": 53780
+                "stars": 53786
               }
             },
             {
@@ -194,7 +194,7 @@
                 "last_commit": "2025-07-11T08:28:23Z",
                 "owner": "standard",
                 "repo": "standard",
-                "stars": 29430
+                "stars": 29431
               }
             },
             {
@@ -224,7 +224,7 @@
                 "last_commit": "2023-11-07T14:37:24Z",
                 "owner": "bevacqua",
                 "repo": "js",
-                "stars": 2980
+                "stars": 2981
               }
             },
             {
@@ -271,7 +271,7 @@
                     "last_commit": "2026-04-30T18:23:12Z",
                     "owner": "johnpapa",
                     "repo": "angular-styleguide",
-                    "stars": 23617
+                    "stars": 23616
                   }
                 },
                 {
@@ -353,7 +353,7 @@
                     "last_commit": "2018-11-08T08:05:46Z",
                     "owner": "polarmobile",
                     "repo": "coffeescript-style-guide",
-                    "stars": 1629
+                    "stars": 1628
                   }
                 }
               ],
@@ -375,7 +375,7 @@
                     "last_commit": "2024-01-16T20:27:54Z",
                     "owner": "interagent",
                     "repo": "http-api-design",
-                    "stars": 13685
+                    "stars": 13684
                   }
                 },
                 {
@@ -564,7 +564,7 @@
                 "last_commit": "2024-04-30T09:39:34Z",
                 "owner": "futurice",
                 "repo": "ios-good-practices",
-                "stars": 10976
+                "stars": 10977
               }
             },
             {
@@ -676,7 +676,7 @@
                 "last_commit": "2026-08-25T10:41:33Z",
                 "owner": "wemake-services",
                 "repo": "wemake-python-styleguide",
-                "stars": 2892
+                "stars": 2894
               }
             }
           ],
@@ -698,7 +698,7 @@
                 "last_commit": "2026-07-20T10:56:34Z",
                 "owner": "rubocop",
                 "repo": "ruby-style-guide",
-                "stars": 16549
+                "stars": 16548
               }
             },
             {
@@ -815,7 +815,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T20:50:17.448Z",
+    "last_updated": "2026-08-26T23:43:58.947Z",
     "original_repository": "RichardLitt/awesome-styleguides",
     "original_repository_id": 23323231,
     "original_repository_sha": "f91d4ffee5e83bca75258a46afef7c1a82d16976",
