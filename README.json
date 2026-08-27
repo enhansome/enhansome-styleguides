@@ -30,7 +30,7 @@
             "last_commit": "2022-10-29T11:33:25Z",
             "owner": "SalGnt",
             "repo": "cscs",
-            "stars": 1508
+            "stars": 1509
           }
         },
         {
@@ -90,7 +90,7 @@
                 "last_commit": "2022-12-21T12:01:30Z",
                 "owner": "necolas",
                 "repo": "idiomatic-css",
-                "stars": 6651
+                "stars": 6652
               }
             },
             {
@@ -142,7 +142,7 @@
                 "last_commit": "2022-09-26T20:12:02Z",
                 "owner": "agis",
                 "repo": "git-style-guide",
-                "stars": 5115
+                "stars": 5116
               }
             }
           ],
@@ -164,7 +164,7 @@
                 "last_commit": "2026-04-16T19:24:09Z",
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148137
+                "stars": 148139
               }
             },
             {
@@ -179,7 +179,7 @@
                 "last_commit": "2026-08-26T09:54:38Z",
                 "owner": "mozilla",
                 "repo": "pdf.js",
-                "stars": 53786
+                "stars": 53788
               }
             },
             {
@@ -194,7 +194,7 @@
                 "last_commit": "2025-07-11T08:28:23Z",
                 "owner": "standard",
                 "repo": "standard",
-                "stars": 29431
+                "stars": 29428
               }
             },
             {
@@ -676,7 +676,7 @@
                 "last_commit": "2026-08-25T10:41:33Z",
                 "owner": "wemake-services",
                 "repo": "wemake-python-styleguide",
-                "stars": 2894
+                "stars": 2895
               }
             }
           ],
@@ -787,7 +787,7 @@
                 "last_commit": "2026-08-21T18:44:08Z",
                 "owner": "airbnb",
                 "repo": "swift",
-                "stars": 2749
+                "stars": 2750
               }
             },
             {
@@ -815,9 +815,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T23:43:58.947Z",
-    "original_repository": "RichardLitt/awesome-styleguides",
-    "original_repository_id": 23323231,
+    "last_updated": "2026-08-27T12:03:55.254Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 23323231,
+      "language": "Shell",
+      "last_commit": "2019-04-18T07:14:56Z",
+      "owner": "RichardLitt",
+      "repo": "awesome-styleguides",
+      "stars": 740
+    },
     "original_repository_sha": "f91d4ffee5e83bca75258a46afef7c1a82d16976",
     "enhanced_repository": "enhansome/enhansome-styleguides",
     "enhanced_repository_description": null,
