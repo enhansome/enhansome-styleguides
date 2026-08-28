@@ -62,7 +62,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Generic
 
-* [frontend-guidelines](https://github.com/bendc/frontend-guidelines) ⭐ 9,115 | 🐛 5 | 📅 2023-12-30
+* [frontend-guidelines](https://github.com/bendc/frontend-guidelines) ⭐ 9,114 | 🐛 5 | 📅 2023-12-30
 * [isobar](https://isobar-idev.github.io/code-standards/)
 
 ## CSS
@@ -108,8 +108,8 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## JavaScript
 
-* [Airbnb](https://github.com/airbnb/javascript) ⭐ 148,139 | 🐛 163 | 🌐 JavaScript | 📅 2026-04-16
-* [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide) ⭐ 53,788 | 🐛 419 | 🌐 JavaScript | 📅 2026-08-26
+* [Airbnb](https://github.com/airbnb/javascript) ⭐ 148,141 | 🐛 163 | 🌐 JavaScript | 📅 2026-04-16
+* [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide) ⭐ 53,792 | 🐛 417 | 🌐 JavaScript | 📅 2026-08-28
 * [feross/standard](https://github.com/feross/standard) ⭐ 29,428 | 🐛 128 | 🌐 JavaScript | 📅 2025-07-11
 * [jscs](https://github.com/jscs-dev/node-jscs) ⚠️ Archived
 * [bevacqua's JS sg](https://github.com/bevacqua/js) ⭐ 2,981 | 🐛 19 | 📅 2023-11-07
@@ -191,7 +191,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Python
 
-* [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,895 | 🐛 13 | 🌐 Python | 📅 2026-08-25 - The strictest and most opinionated Python styleguide and linter ever.
+* [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,895 | 🐛 14 | 🌐 Python | 📅 2026-08-25 - The strictest and most opinionated Python styleguide and linter ever.
 * [Google](https://google.github.io/styleguide/pyguide.html)
 * [PEP 8 Offical Style Guide for Python](https://pep8.org/)
 * [PEP 257 - Docstring Conventions](http://legacy.python.org/dev/peps/pep-0257/)
@@ -238,4 +238,4 @@ To the extent possible under law, [Richard Littauer](http://burntfen.com) has wa
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
