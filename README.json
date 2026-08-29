@@ -31,7 +31,7 @@
             "last_commit": "2022-10-29T11:33:25Z",
             "owner": "SalGnt",
             "repo": "cscs",
-            "stars": 1509
+            "stars": 1508
           },
           "first_seen": "2026-08-28T04:23:26.678Z"
         },
@@ -172,7 +172,7 @@
                 "last_commit": "2026-04-16T19:24:09Z",
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148141
+                "stars": 148144
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
             },
@@ -185,10 +185,10 @@
                 "archived": false,
                 "id": 1663468,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T02:58:49Z",
+                "last_commit": "2026-08-28T18:04:21Z",
                 "owner": "mozilla",
                 "repo": "pdf.js",
-                "stars": 53792
+                "stars": 53798
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
             },
@@ -236,7 +236,7 @@
                 "last_commit": "2023-11-07T14:37:24Z",
                 "owner": "bevacqua",
                 "repo": "js",
-                "stars": 2981
+                "stars": 2983
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
             },
@@ -286,7 +286,7 @@
                     "last_commit": "2026-04-30T18:23:12Z",
                     "owner": "johnpapa",
                     "repo": "angular-styleguide",
-                    "stars": 23616
+                    "stars": 23617
                   },
                   "first_seen": "2026-08-28T04:23:26.678Z"
                 },
@@ -318,7 +318,7 @@
                     "last_commit": "2019-01-09T23:20:03Z",
                     "owner": "mgechev",
                     "repo": "angularjs-style-guide",
-                    "stars": 4918
+                    "stars": 4916
                   },
                   "first_seen": "2026-08-28T04:23:26.678Z"
                 },
@@ -555,7 +555,7 @@
                 "last_commit": "2026-03-31T12:31:44Z",
                 "owner": "bbatsov",
                 "repo": "emacs-lisp-style-guide",
-                "stars": 1136
+                "stars": 1135
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
             }
@@ -610,7 +610,7 @@
                 "last_commit": "2023-05-09T17:23:08Z",
                 "owner": "nytimes",
                 "repo": "objective-c-style-guide",
-                "stars": 5818
+                "stars": 5817
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
             },
@@ -642,7 +642,7 @@
                 "last_commit": "2017-10-01T12:49:18Z",
                 "owner": "kodecocodes",
                 "repo": "objective-c-style-guide",
-                "stars": 3083
+                "stars": 3082
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
             },
@@ -710,7 +710,7 @@
                 "archived": false,
                 "id": 124593057,
                 "language": "Python",
-                "last_commit": "2026-08-25T10:41:33Z",
+                "last_commit": "2026-08-28T10:45:59Z",
                 "owner": "wemake-services",
                 "repo": "wemake-python-styleguide",
                 "stars": 2895
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T04:23:26.678Z",
+    "last_updated": "2026-08-29T02:50:29.650Z",
     "original_repository_info": {
       "archived": false,
       "id": 23323231,
