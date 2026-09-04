@@ -62,7 +62,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Generic
 
-* [frontend-guidelines](https://github.com/bendc/frontend-guidelines) ⭐ 9,115 | 🐛 5 | 📅 2023-12-30
+* [frontend-guidelines](https://github.com/bendc/frontend-guidelines) ⭐ 9,116 | 🐛 5 | 📅 2023-12-30
 * [isobar](https://isobar-idev.github.io/code-standards/)
 
 ## CSS
@@ -92,7 +92,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Git
 
-* [agis-](https://github.com/agis-/git-style-guide) ⭐ 5,116 | 🐛 0 | 📅 2022-09-26
+* [agis-](https://github.com/agis-/git-style-guide) ⭐ 5,117 | 🐛 0 | 📅 2022-09-26
 * [Udacity](https://udacity.github.io/git-styleguide/) - Git Commit Message Style Guide from Udacity.
 
 ## HTML
@@ -108,9 +108,9 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## JavaScript
 
-* [Airbnb](https://github.com/airbnb/javascript) ⭐ 148,149 | 🐛 164 | 🌐 JavaScript | 📅 2026-04-16
-* [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide) ⭐ 53,819 | 🐛 412 | 🌐 JavaScript | 📅 2026-09-03
-* [feross/standard](https://github.com/feross/standard) ⭐ 29,430 | 🐛 128 | 🌐 JavaScript | 📅 2025-07-11
+* [Airbnb](https://github.com/airbnb/javascript) ⭐ 148,150 | 🐛 164 | 🌐 JavaScript | 📅 2026-04-16
+* [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide) ⭐ 53,828 | 🐛 417 | 🌐 JavaScript | 📅 2026-09-04
+* [feross/standard](https://github.com/feross/standard) ⭐ 29,431 | 🐛 128 | 🌐 JavaScript | 📅 2025-07-11
 * [jscs](https://github.com/jscs-dev/node-jscs) ⚠️ Archived
 * [bevacqua's JS sg](https://github.com/bevacqua/js) ⭐ 2,983 | 🐛 19 | 📅 2023-11-07
 * [Khan](https://github.com/Khan/style-guides/blob/master/style/javascript.md) ⭐ 2,128 | 🐛 10 | 🌐 Shell | 📅 2024-09-06
@@ -125,7 +125,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [Todd Motto's for AngularJS](https://github.com/toddmotto/angularjs-styleguide) ⭐ 5,911 | 🐛 23 | 📅 2022-08-24
   * [jmcunningham's fork](https://github.com/jmcunningham/angularjs-styleguide)
 * [mgechev's community best practices](https://github.com/mgechev/angularjs-style-guide) ⭐ 4,916 | 🐛 4 | 📅 2019-01-09
-* [gocardless](https://github.com/gocardless/angularjs-style-guide) ⭐ 1,433 | 🐛 1 | 📅 2018-11-25
+* [gocardless](https://github.com/gocardless/angularjs-style-guide) ⭐ 1,432 | 🐛 1 | 📅 2018-11-25
 * [srph's AngularJS structure sg](https://github.com/srph/angularjs-structure-styleguide) ⭐ 270 | 🐛 2 | 📅 2016-06-22
 * [Google](https://google.github.io/styleguide/angularjs-google-style.html)
 
@@ -191,7 +191,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Python
 
-* [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,898 | 🐛 14 | 🌐 Python | 📅 2026-09-03 - The strictest and most opinionated Python styleguide and linter ever.
+* [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,899 | 🐛 14 | 🌐 Python | 📅 2026-09-04 - The strictest and most opinionated Python styleguide and linter ever.
 * [Google](https://google.github.io/styleguide/pyguide.html)
 * [PEP 8 Offical Style Guide for Python](https://pep8.org/)
 * [PEP 257 - Docstring Conventions](http://legacy.python.org/dev/peps/pep-0257/)
@@ -215,7 +215,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 * [raywenderlich](https://github.com/raywenderlich/swift-style-guide) ⭐ 13,156 | 🐛 16 | 📅 2025-04-01
 * [GitHub](https://github.com/github/swift-style-guide) ⚠️ Archived
-* [Airbnb](https://github.com/airbnb/swift) ⭐ 2,751 | 🐛 3 | 🌐 Markdown | 📅 2026-09-03
+* [Airbnb](https://github.com/airbnb/swift) ⭐ 2,752 | 🐛 3 | 🌐 Markdown | 📅 2026-09-03
 * [SlideShareInc](https://github.com/SlideShareInc/swift-style-guide) ⭐ 93 | 🐛 0 | 📅 2016-06-05
 
 # Non-Code
@@ -238,4 +238,4 @@ To the extent possible under law, [Richard Littauer](http://burntfen.com) has wa
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._

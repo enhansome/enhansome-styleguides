@@ -105,7 +105,7 @@
                 "open_issues": 5,
                 "owner": "bendc",
                 "repo": "frontend-guidelines",
-                "stars": 9115,
+                "stars": 9116,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -205,7 +205,7 @@
                 "open_issues": 0,
                 "owner": "agis",
                 "repo": "git-style-guide",
-                "stars": 5116,
+                "stars": 5117,
                 "topics": [
                   "git",
                   "style",
@@ -238,7 +238,7 @@
                 "open_issues": 164,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148149,
+                "stars": 148150,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -270,11 +270,11 @@
                 "id": 1663468,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T19:00:33Z",
-                "open_issues": 412,
+                "last_commit": "2026-09-04T06:30:35Z",
+                "open_issues": 417,
                 "owner": "mozilla",
                 "repo": "pdf.js",
-                "stars": 53819,
+                "stars": 53828,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -295,7 +295,7 @@
                 "open_issues": 128,
                 "owner": "standard",
                 "repo": "standard",
-                "stars": 29430,
+                "stars": 29431,
                 "topics": [
                   "development",
                   "ecmascript",
@@ -490,7 +490,7 @@
                     "open_issues": 1,
                     "owner": "gocardless",
                     "repo": "angularjs-style-guide",
-                    "stars": 1433,
+                    "stars": 1432,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:26.678Z"
@@ -982,11 +982,11 @@
                 "id": 124593057,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-03T14:31:46Z",
+                "last_commit": "2026-09-04T06:19:57Z",
                 "open_issues": 14,
                 "owner": "wemake-services",
                 "repo": "wemake-python-styleguide",
-                "stars": 2898,
+                "stars": 2899,
                 "topics": [
                   "code-quality",
                   "flake8",
@@ -1153,7 +1153,7 @@
                 "open_issues": 3,
                 "owner": "airbnb",
                 "repo": "swift",
-                "stars": 2751,
+                "stars": 2752,
                 "topics": [
                   "ios",
                   "naming-conventions",
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T22:39:00.682Z",
+    "last_updated": "2026-09-04T22:24:26.731Z",
     "original_repository_info": {
       "archived": false,
       "description": ":clipboard: A list of styleguides",
