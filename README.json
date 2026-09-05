@@ -238,7 +238,7 @@
                 "open_issues": 164,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148150,
+                "stars": 148162,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -271,10 +271,10 @@
                 "language": "JavaScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T06:30:35Z",
-                "open_issues": 417,
+                "open_issues": 419,
                 "owner": "mozilla",
                 "repo": "pdf.js",
-                "stars": 53828,
+                "stars": 53836,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -295,7 +295,7 @@
                 "open_issues": 128,
                 "owner": "standard",
                 "repo": "standard",
-                "stars": 29431,
+                "stars": 29430,
                 "topics": [
                   "development",
                   "ecmascript",
@@ -419,7 +419,7 @@
                     "open_issues": 1,
                     "owner": "johnpapa",
                     "repo": "angular-styleguide",
-                    "stars": 23614,
+                    "stars": 23613,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:26.678Z"
@@ -440,7 +440,7 @@
                     "open_issues": 23,
                     "owner": "toddmotto",
                     "repo": "angularjs-styleguide",
-                    "stars": 5911,
+                    "stars": 5909,
                     "topics": [
                       "angular",
                       "angularjs",
@@ -466,7 +466,7 @@
                     "open_issues": 4,
                     "owner": "mgechev",
                     "repo": "angularjs-style-guide",
-                    "stars": 4916,
+                    "stars": 4914,
                     "topics": [
                       "angularjs",
                       "best-practices"
@@ -795,7 +795,7 @@
                 "open_issues": 16,
                 "owner": "kodecocodes",
                 "repo": "swift-style-guide",
-                "stars": 13156,
+                "stars": 13155,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -816,7 +816,7 @@
                 "open_issues": 22,
                 "owner": "futurice",
                 "repo": "ios-good-practices",
-                "stars": 10977,
+                "stars": 10976,
                 "topics": [
                   "apple",
                   "architecture",
@@ -889,7 +889,7 @@
                 "open_issues": 22,
                 "owner": "kodecocodes",
                 "repo": "objective-c-style-guide",
-                "stars": 3081,
+                "stars": 3079,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -986,7 +986,7 @@
                 "open_issues": 14,
                 "owner": "wemake-services",
                 "repo": "wemake-python-styleguide",
-                "stars": 2899,
+                "stars": 2900,
                 "topics": [
                   "code-quality",
                   "flake8",
@@ -1050,7 +1050,7 @@
                 "open_issues": 17,
                 "owner": "airbnb",
                 "repo": "ruby",
-                "stars": 3892,
+                "stars": 3893,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -1073,7 +1073,7 @@
                     "open_issues": 44,
                     "owner": "rubocop",
                     "repo": "rails-style-guide",
-                    "stars": 6505,
+                    "stars": 6504,
                     "topics": [
                       "rails",
                       "rubocop",
@@ -1111,7 +1111,7 @@
                 "open_issues": 16,
                 "owner": "kodecocodes",
                 "repo": "swift-style-guide",
-                "stars": 13156,
+                "stars": 13155,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T22:24:26.731Z",
+    "last_updated": "2026-09-05T22:05:31.053Z",
     "original_repository_info": {
       "archived": false,
       "description": ":clipboard: A list of styleguides",
