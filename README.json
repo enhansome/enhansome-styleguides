@@ -238,7 +238,7 @@
                 "open_issues": 163,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148201,
+                "stars": 148205,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -270,11 +270,11 @@
                 "id": 1663468,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T20:22:40Z",
-                "open_issues": 419,
+                "last_commit": "2026-09-11T20:56:37Z",
+                "open_issues": 417,
                 "owner": "mozilla",
                 "repo": "pdf.js",
-                "stars": 53860,
+                "stars": 53859,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -396,7 +396,7 @@
                 "open_issues": 5,
                 "owner": "rstacruz",
                 "repo": "rsjs",
-                "stars": 205,
+                "stars": 206,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -795,7 +795,7 @@
                 "open_issues": 16,
                 "owner": "kodecocodes",
                 "repo": "swift-style-guide",
-                "stars": 13153,
+                "stars": 13152,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -816,7 +816,7 @@
                 "open_issues": 22,
                 "owner": "futurice",
                 "repo": "ios-good-practices",
-                "stars": 10977,
+                "stars": 10978,
                 "topics": [
                   "apple",
                   "architecture",
@@ -982,11 +982,11 @@
                 "id": 124593057,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-10T16:49:24Z",
+                "last_commit": "2026-09-11T05:18:10Z",
                 "open_issues": 16,
                 "owner": "wemake-services",
                 "repo": "wemake-python-styleguide",
-                "stars": 2898,
+                "stars": 2900,
                 "topics": [
                   "code-quality",
                   "flake8",
@@ -1111,7 +1111,7 @@
                 "open_issues": 16,
                 "owner": "kodecocodes",
                 "repo": "swift-style-guide",
-                "stars": 13153,
+                "stars": 13152,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -1153,7 +1153,7 @@
                 "open_issues": 4,
                 "owner": "airbnb",
                 "repo": "swift",
-                "stars": 2753,
+                "stars": 2752,
                 "topics": [
                   "ios",
                   "naming-conventions",
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T22:39:47.965Z",
+    "last_updated": "2026-09-11T22:39:39.570Z",
     "original_repository_info": {
       "archived": false,
       "description": ":clipboard: A list of styleguides",
