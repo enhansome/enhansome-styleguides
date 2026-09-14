@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "NARKOZ",
             "repo": "guides",
-            "stars": 2422,
+            "stars": 2423,
             "topics": [
               "api",
               "awesome",
@@ -105,7 +105,7 @@
                 "open_issues": 5,
                 "owner": "bendc",
                 "repo": "frontend-guidelines",
-                "stars": 9117,
+                "stars": 9118,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -235,10 +235,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-04-16T19:24:09Z",
-                "open_issues": 163,
+                "open_issues": 164,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148225,
+                "stars": 148233,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -270,11 +270,11 @@
                 "id": 1663468,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-13T19:35:45Z",
-                "open_issues": 417,
+                "last_commit": "2026-09-14T14:37:42Z",
+                "open_issues": 420,
                 "owner": "mozilla",
                 "repo": "pdf.js",
-                "stars": 53863,
+                "stars": 53868,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -295,7 +295,7 @@
                 "open_issues": 128,
                 "owner": "standard",
                 "repo": "standard",
-                "stars": 29429,
+                "stars": 29430,
                 "topics": [
                   "development",
                   "ecmascript",
@@ -1025,7 +1025,7 @@
                 "open_issues": 73,
                 "owner": "rubocop",
                 "repo": "ruby-style-guide",
-                "stars": 16545,
+                "stars": 16547,
                 "topics": [
                   "rubocop",
                   "ruby",
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T22:28:20.977Z",
+    "last_updated": "2026-09-14T23:12:23.406Z",
     "original_repository_info": {
       "archived": false,
       "description": ":clipboard: A list of styleguides",
