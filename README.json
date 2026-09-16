@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "NARKOZ",
             "repo": "guides",
-            "stars": 2424,
+            "stars": 2423,
             "topics": [
               "api",
               "awesome",
@@ -105,7 +105,7 @@
                 "open_issues": 5,
                 "owner": "bendc",
                 "repo": "frontend-guidelines",
-                "stars": 9118,
+                "stars": 9117,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -133,7 +133,7 @@
                 "open_issues": 7,
                 "owner": "necolas",
                 "repo": "idiomatic-css",
-                "stars": 6650,
+                "stars": 6649,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -205,7 +205,7 @@
                 "open_issues": 0,
                 "owner": "agis",
                 "repo": "git-style-guide",
-                "stars": 5113,
+                "stars": 5114,
                 "topics": [
                   "git",
                   "style",
@@ -270,11 +270,11 @@
                 "id": 1663468,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T18:28:37Z",
-                "open_issues": 421,
+                "last_commit": "2026-09-16T20:59:35Z",
+                "open_issues": 422,
                 "owner": "mozilla",
                 "repo": "pdf.js",
-                "stars": 53877,
+                "stars": 53967,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -795,7 +795,7 @@
                 "open_issues": 16,
                 "owner": "kodecocodes",
                 "repo": "swift-style-guide",
-                "stars": 13152,
+                "stars": 13151,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -1025,7 +1025,7 @@
                 "open_issues": 73,
                 "owner": "rubocop",
                 "repo": "ruby-style-guide",
-                "stars": 16547,
+                "stars": 16548,
                 "topics": [
                   "rubocop",
                   "ruby",
@@ -1050,7 +1050,7 @@
                 "open_issues": 17,
                 "owner": "airbnb",
                 "repo": "ruby",
-                "stars": 3893,
+                "stars": 3892,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -1070,7 +1070,7 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2026-07-21T01:22:59Z",
-                    "open_issues": 44,
+                    "open_issues": 45,
                     "owner": "rubocop",
                     "repo": "rails-style-guide",
                     "stars": 6504,
@@ -1111,7 +1111,7 @@
                 "open_issues": 16,
                 "owner": "kodecocodes",
                 "repo": "swift-style-guide",
-                "stars": 13152,
+                "stars": 13151,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -1149,8 +1149,8 @@
                 "id": 63729462,
                 "language": "Markdown",
                 "license": "MIT",
-                "last_commit": "2026-09-12T16:14:35Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-16T14:51:34Z",
+                "open_issues": 3,
                 "owner": "airbnb",
                 "repo": "swift",
                 "stars": 2755,
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T22:57:10.335Z",
+    "last_updated": "2026-09-16T23:01:32.893Z",
     "original_repository_info": {
       "archived": false,
       "description": ":clipboard: A list of styleguides",
