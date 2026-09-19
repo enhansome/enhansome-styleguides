@@ -105,7 +105,7 @@
                 "open_issues": 5,
                 "owner": "bendc",
                 "repo": "frontend-guidelines",
-                "stars": 9119,
+                "stars": 9120,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -133,7 +133,7 @@
                 "open_issues": 7,
                 "owner": "necolas",
                 "repo": "idiomatic-css",
-                "stars": 6649,
+                "stars": 6648,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -205,7 +205,7 @@
                 "open_issues": 0,
                 "owner": "agis",
                 "repo": "git-style-guide",
-                "stars": 5114,
+                "stars": 5115,
                 "topics": [
                   "git",
                   "style",
@@ -238,7 +238,7 @@
                 "open_issues": 165,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148247,
+                "stars": 148248,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -270,11 +270,11 @@
                 "id": 1663468,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T06:24:33Z",
-                "open_issues": 430,
+                "last_commit": "2026-09-19T17:16:17Z",
+                "open_issues": 428,
                 "owner": "mozilla",
                 "repo": "pdf.js",
-                "stars": 53896,
+                "stars": 53899,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -295,7 +295,7 @@
                 "open_issues": 128,
                 "owner": "standard",
                 "repo": "standard",
-                "stars": 29433,
+                "stars": 29434,
                 "topics": [
                   "development",
                   "ecmascript",
@@ -351,7 +351,7 @@
                 "open_issues": 19,
                 "owner": "bevacqua",
                 "repo": "js",
-                "stars": 2985,
+                "stars": 2986,
                 "topics": [
                   "javascript",
                   "style-guide"
@@ -419,7 +419,7 @@
                     "open_issues": 1,
                     "owner": "johnpapa",
                     "repo": "angular-styleguide",
-                    "stars": 23612,
+                    "stars": 23611,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:26.678Z"
@@ -567,7 +567,7 @@
                     "open_issues": 30,
                     "owner": "interagent",
                     "repo": "http-api-design",
-                    "stars": 13683,
+                    "stars": 13684,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:26.678Z"
@@ -616,7 +616,7 @@
                     "open_issues": 0,
                     "owner": "yuanyan",
                     "repo": "pragmatic-jquery",
-                    "stars": 109,
+                    "stars": 108,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:26.678Z"
@@ -795,7 +795,7 @@
                 "open_issues": 16,
                 "owner": "kodecocodes",
                 "repo": "swift-style-guide",
-                "stars": 13153,
+                "stars": 13154,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -982,11 +982,11 @@
                 "id": 124593057,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-13T14:38:58Z",
+                "last_commit": "2026-09-19T13:43:38Z",
                 "open_issues": 14,
                 "owner": "wemake-services",
                 "repo": "wemake-python-styleguide",
-                "stars": 2905,
+                "stars": 2906,
                 "topics": [
                   "code-quality",
                   "flake8",
@@ -1111,7 +1111,7 @@
                 "open_issues": 16,
                 "owner": "kodecocodes",
                 "repo": "swift-style-guide",
-                "stars": 13153,
+                "stars": 13154,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T22:39:21.104Z",
+    "last_updated": "2026-09-19T22:21:01.027Z",
     "original_repository_info": {
       "archived": false,
       "description": ":clipboard: A list of styleguides",
