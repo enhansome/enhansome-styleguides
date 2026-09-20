@@ -238,7 +238,7 @@
                 "open_issues": 165,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148248,
+                "stars": 148246,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -270,11 +270,11 @@
                 "id": 1663468,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T17:16:17Z",
-                "open_issues": 428,
+                "last_commit": "2026-09-20T13:22:22Z",
+                "open_issues": 429,
                 "owner": "mozilla",
                 "repo": "pdf.js",
-                "stars": 53899,
+                "stars": 53902,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -466,7 +466,7 @@
                     "open_issues": 4,
                     "owner": "mgechev",
                     "repo": "angularjs-style-guide",
-                    "stars": 4915,
+                    "stars": 4914,
                     "topics": [
                       "angularjs",
                       "best-practices"
@@ -795,7 +795,7 @@
                 "open_issues": 16,
                 "owner": "kodecocodes",
                 "repo": "swift-style-guide",
-                "stars": 13154,
+                "stars": 13153,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -1050,7 +1050,7 @@
                 "open_issues": 17,
                 "owner": "airbnb",
                 "repo": "ruby",
-                "stars": 3892,
+                "stars": 3893,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -1111,7 +1111,7 @@
                 "open_issues": 16,
                 "owner": "kodecocodes",
                 "repo": "swift-style-guide",
-                "stars": 13154,
+                "stars": 13153,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -1153,7 +1153,7 @@
                 "open_issues": 3,
                 "owner": "airbnb",
                 "repo": "swift",
-                "stars": 2756,
+                "stars": 2757,
                 "topics": [
                   "ios",
                   "naming-conventions",
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T22:21:01.027Z",
+    "last_updated": "2026-09-20T22:32:03.889Z",
     "original_repository_info": {
       "archived": false,
       "description": ":clipboard: A list of styleguides",
