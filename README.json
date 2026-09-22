@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "NARKOZ",
             "repo": "guides",
-            "stars": 2424,
+            "stars": 2425,
             "topics": [
               "api",
               "awesome",
@@ -238,7 +238,7 @@
                 "open_issues": 165,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148256,
+                "stars": 148261,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -270,11 +270,11 @@
                 "id": 1663468,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T12:04:40Z",
-                "open_issues": 428,
+                "last_commit": "2026-09-22T19:15:52Z",
+                "open_issues": 422,
                 "owner": "mozilla",
                 "repo": "pdf.js",
-                "stars": 53909,
+                "stars": 53924,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -295,7 +295,7 @@
                 "open_issues": 128,
                 "owner": "standard",
                 "repo": "standard",
-                "stars": 29434,
+                "stars": 29433,
                 "topics": [
                   "development",
                   "ecmascript",
@@ -419,7 +419,7 @@
                     "open_issues": 1,
                     "owner": "johnpapa",
                     "repo": "angular-styleguide",
-                    "stars": 23611,
+                    "stars": 23610,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:26.678Z"
@@ -986,7 +986,7 @@
                 "open_issues": 14,
                 "owner": "wemake-services",
                 "repo": "wemake-python-styleguide",
-                "stars": 2908,
+                "stars": 2909,
                 "topics": [
                   "code-quality",
                   "flake8",
@@ -1025,7 +1025,7 @@
                 "open_issues": 73,
                 "owner": "rubocop",
                 "repo": "ruby-style-guide",
-                "stars": 16549,
+                "stars": 16548,
                 "topics": [
                   "rubocop",
                   "ruby",
@@ -1070,7 +1070,7 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2026-07-21T01:22:59Z",
-                    "open_issues": 45,
+                    "open_issues": 46,
                     "owner": "rubocop",
                     "repo": "rails-style-guide",
                     "stars": 6504,
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T23:22:07.885Z",
+    "last_updated": "2026-09-22T23:01:13.448Z",
     "original_repository_info": {
       "archived": false,
       "description": ":clipboard: A list of styleguides",
