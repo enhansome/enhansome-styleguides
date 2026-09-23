@@ -62,12 +62,12 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Generic
 
-* [frontend-guidelines](https://github.com/bendc/frontend-guidelines) ⭐ 9,120 | 🐛 5 | 📅 2023-12-30
+* [frontend-guidelines](https://github.com/bendc/frontend-guidelines) ⭐ 9,124 | 🐛 5 | 📅 2023-12-30
 * [isobar](https://isobar-idev.github.io/code-standards/)
 
 ## CSS
 
-* [Idiomatic-CSS](https://github.com/necolas/idiomatic-css) ⭐ 6,648 | 🐛 7 | 📅 2022-12-21
+* [Idiomatic-CSS](https://github.com/necolas/idiomatic-css) ⭐ 6,647 | 🐛 7 | 📅 2022-12-21
 * [rscss](https://github.com/rstacruz/rscss) ⭐ 3,909 | 🐛 30 | 📅 2023-06-07 - Reasonable Standard for CSS Stylesheet Structure.
 * [CSS Best Practices](https://github.com/sezgi/CSS-Best-Practices) ⭐ 198 | 🐛 0 | 📅 2015-03-27
 * [CSSWizardry](http://cssguidelin.es/) - This is the best there is. Made by one guy who consults for a lot of companies, this document pretty much sets the standards for how CSS should be used. Highly suggested.
@@ -92,7 +92,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Git
 
-* [agis-](https://github.com/agis-/git-style-guide) ⭐ 5,115 | 🐛 0 | 📅 2022-09-26
+* [agis-](https://github.com/agis-/git-style-guide) ⭐ 5,114 | 🐛 0 | 📅 2022-09-26
 * [Udacity](https://udacity.github.io/git-styleguide/) - Git Commit Message Style Guide from Udacity.
 
 ## HTML
@@ -109,8 +109,8 @@ If you have used any of these styleguides, please add a comment if you can! The 
 ## JavaScript
 
 * [Airbnb](https://github.com/airbnb/javascript) ⭐ 148,261 | 🐛 165 | 🌐 JavaScript | 📅 2026-04-16
-* [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide) ⭐ 53,924 | 🐛 422 | 🌐 JavaScript | 📅 2026-09-22
-* [feross/standard](https://github.com/feross/standard) ⭐ 29,433 | 🐛 128 | 🌐 JavaScript | 📅 2025-07-11
+* [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide) ⭐ 53,938 | 🐛 425 | 🌐 JavaScript | 📅 2026-09-22
+* [feross/standard](https://github.com/feross/standard) ⭐ 29,435 | 🐛 128 | 🌐 JavaScript | 📅 2025-07-11
 * [jscs](https://github.com/jscs-dev/node-jscs) ⚠️ Archived
 * [bevacqua's JS sg](https://github.com/bevacqua/js) ⭐ 2,986 | 🐛 19 | 📅 2023-11-07
 * [Khan](https://github.com/Khan/style-guides/blob/master/style/javascript.md) ⭐ 2,127 | 🐛 10 | 🌐 Shell | 📅 2024-09-06
@@ -121,8 +121,8 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ### AngularJS
 
-* [johnpapa's opinionated sg for  AngularJS](https://github.com/johnpapa/angular-styleguide) ⭐ 23,610 | 🐛 1 | 🌐 Vim Snippet | 📅 2026-04-30
-* [Todd Motto's for AngularJS](https://github.com/toddmotto/angularjs-styleguide) ⭐ 5,908 | 🐛 23 | 📅 2022-08-24
+* [johnpapa's opinionated sg for  AngularJS](https://github.com/johnpapa/angular-styleguide) ⭐ 23,609 | 🐛 1 | 🌐 Vim Snippet | 📅 2026-04-30
+* [Todd Motto's for AngularJS](https://github.com/toddmotto/angularjs-styleguide) ⭐ 5,907 | 🐛 23 | 📅 2022-08-24
   * [jmcunningham's fork](https://github.com/jmcunningham/angularjs-styleguide)
 * [mgechev's community best practices](https://github.com/mgechev/angularjs-style-guide) ⭐ 4,914 | 🐛 4 | 📅 2019-01-09
 * [gocardless](https://github.com/gocardless/angularjs-style-guide) ⭐ 1,432 | 🐛 1 | 📅 2018-11-25
@@ -173,7 +173,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Objective-C
 
-* [Swift Style Guide by @raywenderlich](https://github.com/raywenderlich/swift-style-guide) ⭐ 13,152 | 🐛 16 | 📅 2025-04-01 - The official Swift style guide for raywenderlich.com.
+* [Swift Style Guide by @raywenderlich](https://github.com/raywenderlich/swift-style-guide) ⭐ 13,151 | 🐛 16 | 📅 2025-04-01 - The official Swift style guide for raywenderlich.com.
 * [Futurice iOS Good Practices](https://github.com/futurice/ios-good-practices) ⭐ 10,977 | 🐛 22 | 📅 2024-04-30 - iOS starting guide and good practices suggestions by [@futurice](https://github.com/futurice).
 * [NY Times - Objective C Style Guide](https://github.com/NYTimes/objective-c-style-guide) ⚠️ Archived - The Objective-C Style Guide used by The New York Times.
 * [GitHub - Style guide & coding conventions for Swift projects](https://github.com/github/swift-style-guide) ⚠️ Archived A guide to our Swift style and conventions by @github.
@@ -191,7 +191,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Python
 
-* [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,909 | 🐛 14 | 🌐 Python | 📅 2026-09-21 - The strictest and most opinionated Python styleguide and linter ever.
+* [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,911 | 🐛 14 | 🌐 Python | 📅 2026-09-23 - The strictest and most opinionated Python styleguide and linter ever.
 * [Google](https://google.github.io/styleguide/pyguide.html)
 * [PEP 8 Offical Style Guide for Python](https://pep8.org/)
 * [PEP 257 - Docstring Conventions](http://legacy.python.org/dev/peps/pep-0257/)
@@ -213,9 +213,9 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Swift
 
-* [raywenderlich](https://github.com/raywenderlich/swift-style-guide) ⭐ 13,152 | 🐛 16 | 📅 2025-04-01
+* [raywenderlich](https://github.com/raywenderlich/swift-style-guide) ⭐ 13,151 | 🐛 16 | 📅 2025-04-01
 * [GitHub](https://github.com/github/swift-style-guide) ⚠️ Archived
-* [Airbnb](https://github.com/airbnb/swift) ⭐ 2,757 | 🐛 2 | 🌐 Markdown | 📅 2026-09-21
+* [Airbnb](https://github.com/airbnb/swift) ⭐ 2,758 | 🐛 2 | 🌐 Markdown | 📅 2026-09-21
 * [SlideShareInc](https://github.com/SlideShareInc/swift-style-guide) ⭐ 93 | 🐛 0 | 📅 2016-06-05
 
 # Non-Code
@@ -238,4 +238,4 @@ To the extent possible under law, [Richard Littauer](http://burntfen.com) has wa
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
