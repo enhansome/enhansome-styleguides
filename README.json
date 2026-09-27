@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "NARKOZ",
             "repo": "guides",
-            "stars": 2425,
+            "stars": 2426,
             "topics": [
               "api",
               "awesome",
@@ -205,7 +205,7 @@
                 "open_issues": 0,
                 "owner": "agis",
                 "repo": "git-style-guide",
-                "stars": 5114,
+                "stars": 5113,
                 "topics": [
                   "git",
                   "style",
@@ -238,7 +238,7 @@
                 "open_issues": 166,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148285,
+                "stars": 148290,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -271,10 +271,10 @@
                 "language": "JavaScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-25T06:04:33Z",
-                "open_issues": 429,
+                "open_issues": 432,
                 "owner": "mozilla",
                 "repo": "pdf.js",
-                "stars": 53950,
+                "stars": 53951,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -295,7 +295,7 @@
                 "open_issues": 128,
                 "owner": "standard",
                 "repo": "standard",
-                "stars": 29434,
+                "stars": 29433,
                 "topics": [
                   "development",
                   "ecmascript",
@@ -490,7 +490,7 @@
                     "open_issues": 1,
                     "owner": "gocardless",
                     "repo": "angularjs-style-guide",
-                    "stars": 1432,
+                    "stars": 1431,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:26.678Z"
@@ -567,7 +567,7 @@
                     "open_issues": 30,
                     "owner": "interagent",
                     "repo": "http-api-design",
-                    "stars": 13684,
+                    "stars": 13683,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:26.678Z"
@@ -816,7 +816,7 @@
                 "open_issues": 22,
                 "owner": "futurice",
                 "repo": "ios-good-practices",
-                "stars": 10975,
+                "stars": 10976,
                 "topics": [
                   "apple",
                   "architecture",
@@ -847,7 +847,7 @@
                 "open_issues": 0,
                 "owner": "nytimes",
                 "repo": "objective-c-style-guide",
-                "stars": 5812,
+                "stars": 5811,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -983,7 +983,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-24T19:14:06Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "wemake-services",
                 "repo": "wemake-python-styleguide",
                 "stars": 2915,
@@ -1153,7 +1153,7 @@
                 "open_issues": 2,
                 "owner": "airbnb",
                 "repo": "swift",
-                "stars": 2759,
+                "stars": 2760,
                 "topics": [
                   "ios",
                   "naming-conventions",
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T22:57:39.037Z",
+    "last_updated": "2026-09-27T23:07:33.656Z",
     "original_repository_info": {
       "archived": false,
       "description": ":clipboard: A list of styleguides",
