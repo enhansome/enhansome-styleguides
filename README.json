@@ -105,7 +105,7 @@
                 "open_issues": 5,
                 "owner": "bendc",
                 "repo": "frontend-guidelines",
-                "stars": 9131,
+                "stars": 9130,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -154,7 +154,7 @@
                 "open_issues": 30,
                 "owner": "rstacruz",
                 "repo": "rscss",
-                "stars": 3910,
+                "stars": 3909,
                 "topics": [
                   "css"
                 ]
@@ -238,7 +238,7 @@
                 "open_issues": 166,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148287,
+                "stars": 148293,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -271,10 +271,10 @@
                 "language": "JavaScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-29T15:32:56Z",
-                "open_issues": 429,
+                "open_issues": 436,
                 "owner": "mozilla",
                 "repo": "pdf.js",
-                "stars": 53957,
+                "stars": 53965,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -295,7 +295,7 @@
                 "open_issues": 128,
                 "owner": "standard",
                 "repo": "standard",
-                "stars": 29432,
+                "stars": 29431,
                 "topics": [
                   "development",
                   "ecmascript",
@@ -348,7 +348,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2023-11-07T14:37:24Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "bevacqua",
                 "repo": "js",
                 "stars": 2986,
@@ -419,7 +419,7 @@
                     "open_issues": 1,
                     "owner": "johnpapa",
                     "repo": "angular-styleguide",
-                    "stars": 23604,
+                    "stars": 23603,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:26.678Z"
@@ -567,7 +567,7 @@
                     "open_issues": 30,
                     "owner": "interagent",
                     "repo": "http-api-design",
-                    "stars": 13683,
+                    "stars": 13682,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:26.678Z"
@@ -795,7 +795,7 @@
                 "open_issues": 16,
                 "owner": "kodecocodes",
                 "repo": "swift-style-guide",
-                "stars": 13153,
+                "stars": 13152,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -982,8 +982,8 @@
                 "id": 124593057,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-28T17:08:37Z",
-                "open_issues": 19,
+                "last_commit": "2026-09-30T18:45:54Z",
+                "open_issues": 17,
                 "owner": "wemake-services",
                 "repo": "wemake-python-styleguide",
                 "stars": 2916,
@@ -1022,10 +1022,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-07-20T10:56:34Z",
-                "open_issues": 77,
+                "open_issues": 78,
                 "owner": "rubocop",
                 "repo": "ruby-style-guide",
-                "stars": 16548,
+                "stars": 16547,
                 "topics": [
                   "rubocop",
                   "ruby",
@@ -1111,7 +1111,7 @@
                 "open_issues": 16,
                 "owner": "kodecocodes",
                 "repo": "swift-style-guide",
-                "stars": 13153,
+                "stars": 13152,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T23:46:33.997Z",
+    "last_updated": "2026-09-30T23:56:57.859Z",
     "original_repository_info": {
       "archived": false,
       "description": ":clipboard: A list of styleguides",
