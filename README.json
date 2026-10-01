@@ -133,7 +133,7 @@
                 "open_issues": 7,
                 "owner": "necolas",
                 "repo": "idiomatic-css",
-                "stars": 6646,
+                "stars": 6645,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -235,10 +235,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-04-16T19:24:09Z",
-                "open_issues": 166,
+                "open_issues": 167,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148293,
+                "stars": 148307,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -270,11 +270,11 @@
                 "id": 1663468,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T15:32:56Z",
+                "last_commit": "2026-10-01T15:17:59Z",
                 "open_issues": 436,
                 "owner": "mozilla",
                 "repo": "pdf.js",
-                "stars": 53965,
+                "stars": 53973,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -295,7 +295,7 @@
                 "open_issues": 128,
                 "owner": "standard",
                 "repo": "standard",
-                "stars": 29431,
+                "stars": 29429,
                 "topics": [
                   "development",
                   "ecmascript",
@@ -327,7 +327,7 @@
                 "open_issues": 0,
                 "owner": "jscs-dev",
                 "repo": "node-jscs",
-                "stars": 4927,
+                "stars": 4926,
                 "topics": [
                   "jscs",
                   "unmaintained"
@@ -588,7 +588,7 @@
                     "open_issues": 0,
                     "owner": "bolasblack",
                     "repo": "http-api-guide",
-                    "stars": 2551,
+                    "stars": 2550,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:26.678Z"
@@ -982,11 +982,11 @@
                 "id": 124593057,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-30T18:45:54Z",
+                "last_commit": "2026-10-01T12:45:58Z",
                 "open_issues": 17,
                 "owner": "wemake-services",
                 "repo": "wemake-python-styleguide",
-                "stars": 2916,
+                "stars": 2917,
                 "topics": [
                   "code-quality",
                   "flake8",
@@ -1050,7 +1050,7 @@
                 "open_issues": 17,
                 "owner": "airbnb",
                 "repo": "ruby",
-                "stars": 3892,
+                "stars": 3891,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -1149,11 +1149,11 @@
                 "id": 63729462,
                 "language": "Markdown",
                 "license": "MIT",
-                "last_commit": "2026-09-29T20:50:08Z",
+                "last_commit": "2026-10-01T12:13:33Z",
                 "open_issues": 2,
                 "owner": "airbnb",
                 "repo": "swift",
-                "stars": 2760,
+                "stars": 2761,
                 "topics": [
                   "ios",
                   "naming-conventions",
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T23:56:57.859Z",
+    "last_updated": "2026-10-01T23:57:04.970Z",
     "original_repository_info": {
       "archived": false,
       "description": ":clipboard: A list of styleguides",
