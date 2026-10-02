@@ -205,7 +205,7 @@
                 "open_issues": 0,
                 "owner": "agis",
                 "repo": "git-style-guide",
-                "stars": 5113,
+                "stars": 5112,
                 "topics": [
                   "git",
                   "style",
@@ -238,7 +238,7 @@
                 "open_issues": 167,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148307,
+                "stars": 148301,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -270,8 +270,8 @@
                 "id": 1663468,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T15:17:59Z",
-                "open_issues": 436,
+                "last_commit": "2026-10-02T14:41:10Z",
+                "open_issues": 432,
                 "owner": "mozilla",
                 "repo": "pdf.js",
                 "stars": 53973,
@@ -295,7 +295,7 @@
                 "open_issues": 128,
                 "owner": "standard",
                 "repo": "standard",
-                "stars": 29429,
+                "stars": 29428,
                 "topics": [
                   "development",
                   "ecmascript",
@@ -419,7 +419,7 @@
                     "open_issues": 1,
                     "owner": "johnpapa",
                     "repo": "angular-styleguide",
-                    "stars": 23603,
+                    "stars": 23601,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:26.678Z"
@@ -567,7 +567,7 @@
                     "open_issues": 30,
                     "owner": "interagent",
                     "repo": "http-api-design",
-                    "stars": 13682,
+                    "stars": 13679,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:26.678Z"
@@ -795,7 +795,7 @@
                 "open_issues": 16,
                 "owner": "kodecocodes",
                 "repo": "swift-style-guide",
-                "stars": 13152,
+                "stars": 13151,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -847,7 +847,7 @@
                 "open_issues": 0,
                 "owner": "nytimes",
                 "repo": "objective-c-style-guide",
-                "stars": 5811,
+                "stars": 5812,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -868,7 +868,7 @@
                 "open_issues": 4,
                 "owner": "github",
                 "repo": "swift-style-guide",
-                "stars": 4754,
+                "stars": 4753,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -982,11 +982,11 @@
                 "id": 124593057,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-01T12:45:58Z",
-                "open_issues": 17,
+                "last_commit": "2026-10-02T12:12:30Z",
+                "open_issues": 18,
                 "owner": "wemake-services",
                 "repo": "wemake-python-styleguide",
-                "stars": 2917,
+                "stars": 2918,
                 "topics": [
                   "code-quality",
                   "flake8",
@@ -1025,7 +1025,7 @@
                 "open_issues": 78,
                 "owner": "rubocop",
                 "repo": "ruby-style-guide",
-                "stars": 16547,
+                "stars": 16548,
                 "topics": [
                   "rubocop",
                   "ruby",
@@ -1050,7 +1050,7 @@
                 "open_issues": 17,
                 "owner": "airbnb",
                 "repo": "ruby",
-                "stars": 3891,
+                "stars": 3892,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -1111,7 +1111,7 @@
                 "open_issues": 16,
                 "owner": "kodecocodes",
                 "repo": "swift-style-guide",
-                "stars": 13152,
+                "stars": 13151,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -1132,7 +1132,7 @@
                 "open_issues": 4,
                 "owner": "github",
                 "repo": "swift-style-guide",
-                "stars": 4754,
+                "stars": 4753,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -1149,8 +1149,8 @@
                 "id": 63729462,
                 "language": "Markdown",
                 "license": "MIT",
-                "last_commit": "2026-10-01T12:13:33Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-02T18:33:18Z",
+                "open_issues": 1,
                 "owner": "airbnb",
                 "repo": "swift",
                 "stars": 2761,
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T23:57:04.970Z",
+    "last_updated": "2026-10-02T23:51:12.769Z",
     "original_repository_info": {
       "archived": false,
       "description": ":clipboard: A list of styleguides",
@@ -1209,7 +1209,7 @@
       "open_issues": 2,
       "owner": "RichardLitt",
       "repo": "awesome-styleguides",
-      "stars": 740,
+      "stars": 739,
       "topics": [
         "awesome",
         "awesome-list",
