@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Narkoz",
-          "description": null,
+          "description": "NARKOZ/guides",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "NARKOZ",
             "repo": "guides",
-            "stars": 2426,
+            "stars": 2427,
             "topics": [
               "api",
               "awesome",
@@ -37,7 +37,7 @@
         {
           "node_type": "item",
           "title": "SalGnt",
-          "description": null,
+          "description": "SalGnt/cscs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -63,7 +63,7 @@
         {
           "node_type": "item",
           "title": "Styleguides.io",
-          "description": null,
+          "description": "maban/styleguides",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -92,7 +92,7 @@
             {
               "node_type": "item",
               "title": "frontend-guidelines",
-              "description": null,
+              "description": "bendc/frontend-guidelines",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -120,7 +120,7 @@
             {
               "node_type": "item",
               "title": "Idiomatic-CSS",
-              "description": null,
+              "description": "necolas/idiomatic-css",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -164,7 +164,7 @@
             {
               "node_type": "item",
               "title": "CSS Best Practices",
-              "description": null,
+              "description": "sezgi/CSS-Best-Practices",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -192,7 +192,7 @@
             {
               "node_type": "item",
               "title": "agis-",
-              "description": null,
+              "description": "agis/git-style-guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -225,7 +225,7 @@
             {
               "node_type": "item",
               "title": "Airbnb",
-              "description": null,
+              "description": "airbnb/javascript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -235,7 +235,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-04-16T19:24:09Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "airbnb",
                 "repo": "javascript",
                 "stars": 148301,
@@ -261,7 +261,7 @@
             {
               "node_type": "item",
               "title": "Mozilla/pdf.js",
-              "description": null,
+              "description": "mozilla/pdf.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -274,7 +274,7 @@
                 "open_issues": 432,
                 "owner": "mozilla",
                 "repo": "pdf.js",
-                "stars": 53973,
+                "stars": 53974,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -282,7 +282,7 @@
             {
               "node_type": "item",
               "title": "feross/standard",
-              "description": null,
+              "description": "standard/standard",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -314,7 +314,7 @@
             {
               "node_type": "item",
               "title": "jscs",
-              "description": null,
+              "description": "jscs-dev/node-jscs",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -338,7 +338,7 @@
             {
               "node_type": "item",
               "title": "bevacqua's JS sg",
-              "description": null,
+              "description": "bevacqua/js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -362,7 +362,7 @@
             {
               "node_type": "item",
               "title": "Khan",
-              "description": null,
+              "description": "Khan/style-guides",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -406,7 +406,7 @@
                 {
                   "node_type": "item",
                   "title": "johnpapa's opinionated sg for AngularJS",
-                  "description": null,
+                  "description": "johnpapa/angular-styleguide",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -427,7 +427,7 @@
                 {
                   "node_type": "item",
                   "title": "Todd Motto's for AngularJS",
-                  "description": null,
+                  "description": "toddmotto/angularjs-styleguide",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -453,7 +453,7 @@
                 {
                   "node_type": "item",
                   "title": "mgechev's community best practices",
-                  "description": null,
+                  "description": "mgechev/angularjs-style-guide",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -477,7 +477,7 @@
                 {
                   "node_type": "item",
                   "title": "gocardless",
-                  "description": null,
+                  "description": "gocardless/angularjs-style-guide",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -498,7 +498,7 @@
                 {
                   "node_type": "item",
                   "title": "srph's AngularJS structure sg",
-                  "description": null,
+                  "description": "srph/angularjs-structure-styleguide",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -526,7 +526,7 @@
                 {
                   "node_type": "item",
                   "title": "Polarmobile",
-                  "description": null,
+                  "description": "polarmobile/coffeescript-style-guide",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -554,7 +554,7 @@
                 {
                   "node_type": "item",
                   "title": "http-api-design",
-                  "description": null,
+                  "description": "interagent/http-api-design",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -603,7 +603,7 @@
                 {
                   "node_type": "item",
                   "title": "Pragmatic jQuery",
-                  "description": null,
+                  "description": "yuanyan/pragmatic-jquery",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -631,7 +631,7 @@
                 {
                   "node_type": "item",
                   "title": "mattdesl",
-                  "description": null,
+                  "description": "mattdesl/module-best-practices",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -687,7 +687,7 @@
                 {
                   "node_type": "item",
                   "title": "Khan",
-                  "description": null,
+                  "description": "Khan/style-guides",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -754,7 +754,7 @@
             {
               "node_type": "item",
               "title": "emacs-lips-style-guide",
-              "description": null,
+              "description": "bbatsov/emacs-lisp-style-guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -945,7 +945,7 @@
             {
               "node_type": "item",
               "title": "Khan",
-              "description": null,
+              "description": "Khan/objective-c-style-guide",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1012,7 +1012,7 @@
             {
               "node_type": "item",
               "title": "bbatsov",
-              "description": null,
+              "description": "rubocop/ruby-style-guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1037,7 +1037,7 @@
             {
               "node_type": "item",
               "title": "Airbnb",
-              "description": null,
+              "description": "airbnb/ruby",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1060,7 +1060,7 @@
                 {
                   "node_type": "item",
                   "title": "bbastov's Ruby on Rails 4 styleguide",
-                  "description": null,
+                  "description": "rubocop/rails-style-guide",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1098,7 +1098,7 @@
             {
               "node_type": "item",
               "title": "raywenderlich",
-              "description": null,
+              "description": "kodecocodes/swift-style-guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1119,7 +1119,7 @@
             {
               "node_type": "item",
               "title": "github/swift-style-guide",
-              "description": null,
+              "description": "github/swift-style-guide",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1140,7 +1140,7 @@
             {
               "node_type": "item",
               "title": "Airbnb",
-              "description": null,
+              "description": "airbnb/swift",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1169,7 +1169,7 @@
             {
               "node_type": "item",
               "title": "SlideShareInc",
-              "description": null,
+              "description": "SlideShareInc/swift-style-guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:51:12.769Z",
+    "last_updated": "2026-10-03T05:10:07.960Z",
     "original_repository_info": {
       "archived": false,
       "description": ":clipboard: A list of styleguides",
@@ -1209,7 +1209,7 @@
       "open_issues": 2,
       "owner": "RichardLitt",
       "repo": "awesome-styleguides",
-      "stars": 739,
+      "stars": 740,
       "topics": [
         "awesome",
         "awesome-list",
