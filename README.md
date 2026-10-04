@@ -108,9 +108,9 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## JavaScript
 
-* [Airbnb](https://github.com/airbnb/javascript) ⭐ 148,304 | 🐛 168 | 🌐 JavaScript | 📅 2026-04-16
-* [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide) ⭐ 53,975 | 🐛 430 | 🌐 JavaScript | 📅 2026-10-03
-* [feross/standard](https://github.com/feross/standard) ⭐ 29,427 | 🐛 128 | 🌐 JavaScript | 📅 2025-07-11
+* [Airbnb](https://github.com/airbnb/javascript) ⭐ 148,305 | 🐛 168 | 🌐 JavaScript | 📅 2026-04-16
+* [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide) ⭐ 53,978 | 🐛 429 | 🌐 JavaScript | 📅 2026-10-04
+* [feross/standard](https://github.com/feross/standard) ⭐ 29,431 | 🐛 128 | 🌐 JavaScript | 📅 2025-07-11
 * [jscs](https://github.com/jscs-dev/node-jscs) ⚠️ Archived
 * [bevacqua's JS sg](https://github.com/bevacqua/js) ⭐ 2,986 | 🐛 20 | 📅 2023-11-07
 * [Khan](https://github.com/Khan/style-guides/blob/master/style/javascript.md) ⭐ 2,126 | 🐛 10 | 🌐 Shell | 📅 2024-09-06
@@ -174,7 +174,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 ## Objective-C
 
 * [Swift Style Guide by @raywenderlich](https://github.com/raywenderlich/swift-style-guide) ⭐ 13,150 | 🐛 16 | 📅 2025-04-01 - The official Swift style guide for raywenderlich.com.
-* [Futurice iOS Good Practices](https://github.com/futurice/ios-good-practices) ⭐ 10,977 | 🐛 22 | 📅 2024-04-30 - iOS starting guide and good practices suggestions by [@futurice](https://github.com/futurice).
+* [Futurice iOS Good Practices](https://github.com/futurice/ios-good-practices) ⭐ 10,978 | 🐛 22 | 📅 2024-04-30 - iOS starting guide and good practices suggestions by [@futurice](https://github.com/futurice).
 * [NY Times - Objective C Style Guide](https://github.com/NYTimes/objective-c-style-guide) ⚠️ Archived - The Objective-C Style Guide used by The New York Times.
 * [GitHub - Style guide & coding conventions for Swift projects](https://github.com/github/swift-style-guide) ⚠️ Archived A guide to our Swift style and conventions by @github.
 * [raywenderlich Style Guide](https://github.com/raywenderlich/objective-c-style-guide) ⭐ 3,077 | 🐛 22 | 📅 2017-10-01 - A style guide that outlines the coding conventions for raywenderlich.com.
@@ -199,13 +199,13 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Ruby
 
-* [bbatsov](https://github.com/bbatsov/ruby-style-guide) ⭐ 16,548 | 🐛 78 | 📅 2026-07-20
-* [Airbnb](https://github.com/airbnb/ruby) ⭐ 3,892 | 🐛 17 | 🌐 Ruby | 📅 2025-12-19
+* [bbatsov](https://github.com/bbatsov/ruby-style-guide) ⭐ 16,546 | 🐛 78 | 📅 2026-07-20
+* [Airbnb](https://github.com/airbnb/ruby) ⭐ 3,891 | 🐛 17 | 🌐 Ruby | 📅 2025-12-19
 * [GitHub](https://github.com/styleguide/ruby) - Based on bbatsov style guide.
 
 ### Ruby on Rails
 
-* [bbastov's Ruby on Rails 4 styleguide](https://github.com/bbatsov/rails-style-guide) ⭐ 6,505 | 🐛 46 | 📅 2026-07-21
+* [bbastov's Ruby on Rails 4 styleguide](https://github.com/bbatsov/rails-style-guide) ⭐ 6,505 | 🐛 45 | 📅 2026-10-04
 
 ## Rust
 
@@ -238,4 +238,4 @@ To the extent possible under law, [Richard Littauer](http://burntfen.com) has wa
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
