@@ -105,7 +105,7 @@
                 "open_issues": 5,
                 "owner": "bendc",
                 "repo": "frontend-guidelines",
-                "stars": 9130,
+                "stars": 9131,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -270,11 +270,11 @@
                 "id": 1663468,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-04T14:27:38Z",
+                "last_commit": "2026-10-05T18:02:58Z",
                 "open_issues": 429,
                 "owner": "mozilla",
                 "repo": "pdf.js",
-                "stars": 53978,
+                "stars": 53980,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -295,7 +295,7 @@
                 "open_issues": 128,
                 "owner": "standard",
                 "repo": "standard",
-                "stars": 29431,
+                "stars": 29429,
                 "topics": [
                   "development",
                   "ecmascript",
@@ -466,7 +466,7 @@
                     "open_issues": 4,
                     "owner": "mgechev",
                     "repo": "angularjs-style-guide",
-                    "stars": 4914,
+                    "stars": 4913,
                     "topics": [
                       "angularjs",
                       "best-practices"
@@ -847,7 +847,7 @@
                 "open_issues": 0,
                 "owner": "nytimes",
                 "repo": "objective-c-style-guide",
-                "stars": 5812,
+                "stars": 5811,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -982,8 +982,8 @@
                 "id": 124593057,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-03T20:10:46Z",
-                "open_issues": 15,
+                "last_commit": "2026-10-05T20:33:21Z",
+                "open_issues": 14,
                 "owner": "wemake-services",
                 "repo": "wemake-python-styleguide",
                 "stars": 2918,
@@ -1021,7 +1021,7 @@
                 "id": 2371106,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-07-20T10:56:34Z",
+                "last_commit": "2026-10-05T21:33:22Z",
                 "open_issues": 78,
                 "owner": "rubocop",
                 "repo": "ruby-style-guide",
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T23:17:20.201Z",
+    "last_updated": "2026-10-06T01:19:59.059Z",
     "original_repository_info": {
       "archived": false,
       "description": ":clipboard: A list of styleguides",

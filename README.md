@@ -62,7 +62,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Generic
 
-* [frontend-guidelines](https://github.com/bendc/frontend-guidelines) ⭐ 9,130 | 🐛 5 | 📅 2023-12-30
+* [frontend-guidelines](https://github.com/bendc/frontend-guidelines) ⭐ 9,131 | 🐛 5 | 📅 2023-12-30
 * [isobar](https://isobar-idev.github.io/code-standards/)
 
 ## CSS
@@ -109,8 +109,8 @@ If you have used any of these styleguides, please add a comment if you can! The 
 ## JavaScript
 
 * [Airbnb](https://github.com/airbnb/javascript) ⭐ 148,305 | 🐛 168 | 🌐 JavaScript | 📅 2026-04-16
-* [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide) ⭐ 53,978 | 🐛 429 | 🌐 JavaScript | 📅 2026-10-04
-* [feross/standard](https://github.com/feross/standard) ⭐ 29,431 | 🐛 128 | 🌐 JavaScript | 📅 2025-07-11
+* [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide) ⭐ 53,980 | 🐛 429 | 🌐 JavaScript | 📅 2026-10-05
+* [feross/standard](https://github.com/feross/standard) ⭐ 29,429 | 🐛 128 | 🌐 JavaScript | 📅 2025-07-11
 * [jscs](https://github.com/jscs-dev/node-jscs) ⚠️ Archived
 * [bevacqua's JS sg](https://github.com/bevacqua/js) ⭐ 2,986 | 🐛 20 | 📅 2023-11-07
 * [Khan](https://github.com/Khan/style-guides/blob/master/style/javascript.md) ⭐ 2,126 | 🐛 10 | 🌐 Shell | 📅 2024-09-06
@@ -124,7 +124,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [johnpapa's opinionated sg for  AngularJS](https://github.com/johnpapa/angular-styleguide) ⭐ 23,600 | 🐛 1 | 🌐 Vim Snippet | 📅 2026-04-30
 * [Todd Motto's for AngularJS](https://github.com/toddmotto/angularjs-styleguide) ⭐ 5,906 | 🐛 23 | 📅 2022-08-24
   * [jmcunningham's fork](https://github.com/jmcunningham/angularjs-styleguide)
-* [mgechev's community best practices](https://github.com/mgechev/angularjs-style-guide) ⭐ 4,914 | 🐛 4 | 📅 2019-01-09
+* [mgechev's community best practices](https://github.com/mgechev/angularjs-style-guide) ⭐ 4,913 | 🐛 4 | 📅 2019-01-09
 * [gocardless](https://github.com/gocardless/angularjs-style-guide) ⭐ 1,431 | 🐛 1 | 📅 2018-11-25
 * [srph's AngularJS structure sg](https://github.com/srph/angularjs-structure-styleguide) ⭐ 270 | 🐛 2 | 📅 2016-06-22
 * [Google](https://google.github.io/styleguide/angularjs-google-style.html)
@@ -191,7 +191,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Python
 
-* [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,918 | 🐛 15 | 🌐 Python | 📅 2026-10-03 - The strictest and most opinionated Python styleguide and linter ever.
+* [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,918 | 🐛 14 | 🌐 Python | 📅 2026-10-05 - The strictest and most opinionated Python styleguide and linter ever.
 * [Google](https://google.github.io/styleguide/pyguide.html)
 * [PEP 8 Offical Style Guide for Python](https://pep8.org/)
 * [PEP 257 - Docstring Conventions](http://legacy.python.org/dev/peps/pep-0257/)
@@ -199,7 +199,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Ruby
 
-* [bbatsov](https://github.com/bbatsov/ruby-style-guide) ⭐ 16,546 | 🐛 78 | 📅 2026-07-20
+* [bbatsov](https://github.com/bbatsov/ruby-style-guide) ⭐ 16,546 | 🐛 78 | 📅 2026-10-05
 * [Airbnb](https://github.com/airbnb/ruby) ⭐ 3,891 | 🐛 17 | 🌐 Ruby | 📅 2025-12-19
 * [GitHub](https://github.com/styleguide/ruby) - Based on bbatsov style guide.
 
@@ -238,4 +238,4 @@ To the extent possible under law, [Richard Littauer](http://burntfen.com) has wa
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
