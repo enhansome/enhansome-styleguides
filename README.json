@@ -105,7 +105,7 @@
                 "open_issues": 5,
                 "owner": "bendc",
                 "repo": "frontend-guidelines",
-                "stars": 9131,
+                "stars": 9130,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -238,7 +238,7 @@
                 "open_issues": 168,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148305,
+                "stars": 148304,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -274,7 +274,7 @@
                 "open_issues": 429,
                 "owner": "mozilla",
                 "repo": "pdf.js",
-                "stars": 53980,
+                "stars": 53985,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -982,8 +982,8 @@
                 "id": 124593057,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-05T20:33:21Z",
-                "open_issues": 14,
+                "last_commit": "2026-10-06T05:14:34Z",
+                "open_issues": 16,
                 "owner": "wemake-services",
                 "repo": "wemake-python-styleguide",
                 "stars": 2918,
@@ -1073,7 +1073,7 @@
                     "open_issues": 45,
                     "owner": "rubocop",
                     "repo": "rails-style-guide",
-                    "stars": 6505,
+                    "stars": 6506,
                     "topics": [
                       "rails",
                       "rubocop",
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T01:19:59.059Z",
+    "last_updated": "2026-10-06T10:51:36.336Z",
     "original_repository_info": {
       "archived": false,
       "description": ":clipboard: A list of styleguides",
