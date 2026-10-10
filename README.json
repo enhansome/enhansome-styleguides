@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "NARKOZ",
             "repo": "guides",
-            "stars": 2429,
+            "stars": 2430,
             "topics": [
               "api",
               "awesome",
@@ -105,7 +105,7 @@
                 "open_issues": 5,
                 "owner": "bendc",
                 "repo": "frontend-guidelines",
-                "stars": 9130,
+                "stars": 9131,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -238,7 +238,7 @@
                 "open_issues": 168,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148090,
+                "stars": 148086,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -270,11 +270,11 @@
                 "id": 1663468,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T18:47:20Z",
-                "open_issues": 443,
+                "last_commit": "2026-10-10T06:08:08Z",
+                "open_issues": 444,
                 "owner": "mozilla",
                 "repo": "pdf.js",
-                "stars": 53989,
+                "stars": 53990,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -295,7 +295,7 @@
                 "open_issues": 128,
                 "owner": "standard",
                 "repo": "standard",
-                "stars": 29427,
+                "stars": 29425,
                 "topics": [
                   "development",
                   "ecmascript",
@@ -419,7 +419,7 @@
                     "open_issues": 1,
                     "owner": "johnpapa",
                     "repo": "angular-styleguide",
-                    "stars": 23597,
+                    "stars": 23598,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:26.678Z"
@@ -567,7 +567,7 @@
                     "open_issues": 30,
                     "owner": "interagent",
                     "repo": "http-api-design",
-                    "stars": 13677,
+                    "stars": 13678,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:26.678Z"
@@ -616,7 +616,7 @@
                     "open_issues": 0,
                     "owner": "yuanyan",
                     "repo": "pragmatic-jquery",
-                    "stars": 108,
+                    "stars": 107,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:26.678Z"
@@ -986,7 +986,7 @@
                 "open_issues": 16,
                 "owner": "wemake-services",
                 "repo": "wemake-python-styleguide",
-                "stars": 2922,
+                "stars": 2923,
                 "topics": [
                   "code-quality",
                   "flake8",
@@ -1050,7 +1050,7 @@
                 "open_issues": 17,
                 "owner": "airbnb",
                 "repo": "ruby",
-                "stars": 3891,
+                "stars": 3890,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -1073,7 +1073,7 @@
                     "open_issues": 45,
                     "owner": "rubocop",
                     "repo": "rails-style-guide",
-                    "stars": 6505,
+                    "stars": 6504,
                     "topics": [
                       "rails",
                       "rubocop",
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T00:05:12.779Z",
+    "last_updated": "2026-10-10T23:39:01.696Z",
     "original_repository_info": {
       "archived": false,
       "description": ":clipboard: A list of styleguides",
