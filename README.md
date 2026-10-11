@@ -108,9 +108,9 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## JavaScript
 
-* [Airbnb](https://github.com/airbnb/javascript) ⭐ 148,086 | 🐛 168 | 🌐 JavaScript | 📅 2026-04-16
-* [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide) ⭐ 53,990 | 🐛 444 | 🌐 JavaScript | 📅 2026-10-10
-* [feross/standard](https://github.com/feross/standard) ⭐ 29,425 | 🐛 128 | 🌐 JavaScript | 📅 2025-07-11
+* [Airbnb](https://github.com/airbnb/javascript) ⭐ 148,089 | 🐛 168 | 🌐 JavaScript | 📅 2026-04-16
+* [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide) ⭐ 53,994 | 🐛 450 | 🌐 JavaScript | 📅 2026-10-11
+* [feross/standard](https://github.com/feross/standard) ⭐ 29,427 | 🐛 128 | 🌐 JavaScript | 📅 2025-07-11
 * [jscs](https://github.com/jscs-dev/node-jscs) ⚠️ Archived
 * [bevacqua's JS sg](https://github.com/bevacqua/js) ⭐ 2,986 | 🐛 20 | 📅 2023-11-07
 * [Khan](https://github.com/Khan/style-guides/blob/master/style/javascript.md) ⭐ 2,126 | 🐛 10 | 🌐 Shell | 📅 2024-09-06
@@ -121,7 +121,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ### AngularJS
 
-* [johnpapa's opinionated sg for  AngularJS](https://github.com/johnpapa/angular-styleguide) ⭐ 23,598 | 🐛 1 | 🌐 Vim Snippet | 📅 2026-04-30
+* [johnpapa's opinionated sg for  AngularJS](https://github.com/johnpapa/angular-styleguide) ⭐ 23,597 | 🐛 1 | 🌐 Vim Snippet | 📅 2026-04-30
 * [Todd Motto's for AngularJS](https://github.com/toddmotto/angularjs-styleguide) ⭐ 5,904 | 🐛 23 | 📅 2022-08-24
   * [jmcunningham's fork](https://github.com/jmcunningham/angularjs-styleguide)
 * [mgechev's community best practices](https://github.com/mgechev/angularjs-style-guide) ⭐ 4,911 | 🐛 4 | 📅 2019-01-09
@@ -135,7 +135,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ### HTTP Design
 
-* [http-api-design](https://github.com/interagent/http-api-design) ⭐ 13,678 | 🐛 30 | 📅 2024-01-16
+* [http-api-design](https://github.com/interagent/http-api-design) ⭐ 13,677 | 🐛 30 | 📅 2024-01-16
 * [http-api-guide](https://github.com/bolasblack/http-api-guide) ⭐ 2,550 | 🐛 0 | 📅 2025-11-14 - Chinese.
 
 ### JSON
@@ -191,7 +191,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Python
 
-* [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,923 | 🐛 16 | 🌐 Python | 📅 2026-10-09 - The strictest and most opinionated Python styleguide and linter ever.
+* [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,925 | 🐛 16 | 🌐 Python | 📅 2026-10-11 - The strictest and most opinionated Python styleguide and linter ever.
 * [Google](https://google.github.io/styleguide/pyguide.html)
 * [PEP 8 Offical Style Guide for Python](https://pep8.org/)
 * [PEP 257 - Docstring Conventions](http://legacy.python.org/dev/peps/pep-0257/)
@@ -215,7 +215,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 * [raywenderlich](https://github.com/raywenderlich/swift-style-guide) ⭐ 13,147 | 🐛 16 | 📅 2025-04-01
 * [GitHub](https://github.com/github/swift-style-guide) ⚠️ Archived
-* [Airbnb](https://github.com/airbnb/swift) ⭐ 2,759 | 🐛 2 | 🌐 Markdown | 📅 2026-10-06
+* [Airbnb](https://github.com/airbnb/swift) ⭐ 2,758 | 🐛 2 | 🌐 Markdown | 📅 2026-10-06
 * [SlideShareInc](https://github.com/SlideShareInc/swift-style-guide) ⭐ 93 | 🐛 0 | 📅 2016-06-05
 
 # Non-Code
@@ -238,4 +238,4 @@ To the extent possible under law, [Richard Littauer](http://burntfen.com) has wa
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
