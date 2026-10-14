@@ -67,7 +67,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## CSS
 
-* [Idiomatic-CSS](https://github.com/necolas/idiomatic-css) ⭐ 6,644 | 🐛 7 | 📅 2022-12-21
+* [Idiomatic-CSS](https://github.com/necolas/idiomatic-css) ⭐ 6,643 | 🐛 7 | 📅 2022-12-21
 * [rscss](https://github.com/rstacruz/rscss) ⭐ 3,908 | 🐛 30 | 📅 2023-06-07 - Reasonable Standard for CSS Stylesheet Structure.
 * [CSS Best Practices](https://github.com/sezgi/CSS-Best-Practices) ⭐ 198 | 🐛 0 | 📅 2015-03-27
 * [CSSWizardry](http://cssguidelin.es/) - This is the best there is. Made by one guy who consults for a lot of companies, this document pretty much sets the standards for how CSS should be used. Highly suggested.
@@ -108,9 +108,9 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## JavaScript
 
-* [Airbnb](https://github.com/airbnb/javascript) ⭐ 148,079 | 🐛 168 | 🌐 JavaScript | 📅 2026-04-16
-* [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide) ⭐ 53,999 | 🐛 446 | 🌐 JavaScript | 📅 2026-10-13
-* [feross/standard](https://github.com/feross/standard) ⭐ 29,424 | 🐛 128 | 🌐 JavaScript | 📅 2025-07-11
+* [Airbnb](https://github.com/airbnb/javascript) ⭐ 148,074 | 🐛 168 | 🌐 JavaScript | 📅 2026-04-16
+* [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide) ⭐ 54,003 | 🐛 452 | 🌐 JavaScript | 📅 2026-10-14
+* [feross/standard](https://github.com/feross/standard) ⭐ 29,426 | 🐛 128 | 🌐 JavaScript | 📅 2025-07-11
 * [jscs](https://github.com/jscs-dev/node-jscs) ⚠️ Archived
 * [bevacqua's JS sg](https://github.com/bevacqua/js) ⭐ 2,986 | 🐛 20 | 📅 2023-11-07
 * [Khan](https://github.com/Khan/style-guides/blob/master/style/javascript.md) ⭐ 2,125 | 🐛 10 | 🌐 Shell | 📅 2024-09-06
@@ -169,7 +169,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Lisp
 
-* [emacs-lips-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide) ⭐ 1,135 | 🐛 16 | 📅 2026-03-31
+* [emacs-lips-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide) ⭐ 1,136 | 🐛 16 | 📅 2026-03-31
 
 ## Objective-C
 
@@ -191,7 +191,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Python
 
-* [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,930 | 🐛 15 | 🌐 Python | 📅 2026-10-13 - The strictest and most opinionated Python styleguide and linter ever.
+* [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,930 | 🐛 15 | 🌐 Python | 📅 2026-10-14 - The strictest and most opinionated Python styleguide and linter ever.
 * [Google](https://google.github.io/styleguide/pyguide.html)
 * [PEP 8 Offical Style Guide for Python](https://pep8.org/)
 * [PEP 257 - Docstring Conventions](http://legacy.python.org/dev/peps/pep-0257/)
@@ -238,4 +238,4 @@ To the extent possible under law, [Richard Littauer](http://burntfen.com) has wa
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._

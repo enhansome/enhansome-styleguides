@@ -133,7 +133,7 @@
                 "open_issues": 7,
                 "owner": "necolas",
                 "repo": "idiomatic-css",
-                "stars": 6644,
+                "stars": 6643,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -238,7 +238,7 @@
                 "open_issues": 168,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148079,
+                "stars": 148074,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -270,11 +270,11 @@
                 "id": 1663468,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T18:45:11Z",
-                "open_issues": 446,
+                "last_commit": "2026-10-14T20:50:18Z",
+                "open_issues": 452,
                 "owner": "mozilla",
                 "repo": "pdf.js",
-                "stars": 53999,
+                "stars": 54003,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -295,7 +295,7 @@
                 "open_issues": 128,
                 "owner": "standard",
                 "repo": "standard",
-                "stars": 29424,
+                "stars": 29426,
                 "topics": [
                   "development",
                   "ecmascript",
@@ -767,7 +767,7 @@
                 "open_issues": 16,
                 "owner": "bbatsov",
                 "repo": "emacs-lisp-style-guide",
-                "stars": 1135,
+                "stars": 1136,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -982,7 +982,7 @@
                 "id": 124593057,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-13T12:11:35Z",
+                "last_commit": "2026-10-14T13:11:11Z",
                 "open_issues": 15,
                 "owner": "wemake-services",
                 "repo": "wemake-python-styleguide",
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T23:45:17.716Z",
+    "last_updated": "2026-10-14T23:17:57.142Z",
     "original_repository_info": {
       "archived": false,
       "description": ":clipboard: A list of styleguides",
