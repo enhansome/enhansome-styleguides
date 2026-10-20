@@ -68,7 +68,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 ## CSS
 
 * [Idiomatic-CSS](https://github.com/necolas/idiomatic-css) ⭐ 6,642 | 🐛 7 | 📅 2022-12-21
-* [rscss](https://github.com/rstacruz/rscss) ⭐ 3,908 | 🐛 30 | 📅 2023-06-07 - Reasonable Standard for CSS Stylesheet Structure.
+* [rscss](https://github.com/rstacruz/rscss) ⭐ 3,908 | 🐛 29 | 📅 2023-06-07 - Reasonable Standard for CSS Stylesheet Structure.
 * [CSS Best Practices](https://github.com/sezgi/CSS-Best-Practices) ⭐ 198 | 🐛 0 | 📅 2015-03-27
 * [CSSWizardry](http://cssguidelin.es/) - This is the best there is. Made by one guy who consults for a lot of companies, this document pretty much sets the standards for how CSS should be used. Highly suggested.
 * [GitHub](http://primercss.io)
@@ -108,9 +108,9 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## JavaScript
 
-* [Airbnb](https://github.com/airbnb/javascript) ⭐ 148,062 | 🐛 168 | 🌐 JavaScript | 📅 2026-04-16
-* [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide) ⭐ 54,020 | 🐛 453 | 🌐 JavaScript | 📅 2026-10-19
-* [feross/standard](https://github.com/feross/standard) ⭐ 29,426 | 🐛 128 | 🌐 JavaScript | 📅 2025-07-11
+* [Airbnb](https://github.com/airbnb/javascript) ⭐ 148,056 | 🐛 168 | 🌐 JavaScript | 📅 2026-04-16
+* [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide) ⭐ 54,027 | 🐛 469 | 🌐 JavaScript | 📅 2026-10-20
+* [feross/standard](https://github.com/feross/standard) ⭐ 29,427 | 🐛 128 | 🌐 JavaScript | 📅 2025-07-11
 * [jscs](https://github.com/jscs-dev/node-jscs) ⚠️ Archived
 * [bevacqua's JS sg](https://github.com/bevacqua/js) ⭐ 2,986 | 🐛 20 | 📅 2023-11-07
 * [Khan](https://github.com/Khan/style-guides/blob/master/style/javascript.md) ⭐ 2,125 | 🐛 10 | 🌐 Shell | 📅 2024-09-06
@@ -173,7 +173,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Objective-C
 
-* [Swift Style Guide by @raywenderlich](https://github.com/raywenderlich/swift-style-guide) ⭐ 13,146 | 🐛 16 | 📅 2025-04-01 - The official Swift style guide for raywenderlich.com.
+* [Swift Style Guide by @raywenderlich](https://github.com/raywenderlich/swift-style-guide) ⭐ 13,144 | 🐛 16 | 📅 2025-04-01 - The official Swift style guide for raywenderlich.com.
 * [Futurice iOS Good Practices](https://github.com/futurice/ios-good-practices) ⭐ 10,979 | 🐛 22 | 📅 2024-04-30 - iOS starting guide and good practices suggestions by [@futurice](https://github.com/futurice).
 * [NY Times - Objective C Style Guide](https://github.com/NYTimes/objective-c-style-guide) ⚠️ Archived - The Objective-C Style Guide used by The New York Times.
 * [GitHub - Style guide & coding conventions for Swift projects](https://github.com/github/swift-style-guide) ⚠️ Archived A guide to our Swift style and conventions by @github.
@@ -199,8 +199,8 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Ruby
 
-* [bbatsov](https://github.com/bbatsov/ruby-style-guide) ⭐ 16,543 | 🐛 78 | 📅 2026-10-05
-* [Airbnb](https://github.com/airbnb/ruby) ⭐ 3,888 | 🐛 17 | 🌐 Ruby | 📅 2025-12-19
+* [bbatsov](https://github.com/bbatsov/ruby-style-guide) ⭐ 16,544 | 🐛 78 | 📅 2026-10-05
+* [Airbnb](https://github.com/airbnb/ruby) ⭐ 3,889 | 🐛 17 | 🌐 Ruby | 📅 2025-12-19
 * [GitHub](https://github.com/styleguide/ruby) - Based on bbatsov style guide.
 
 ### Ruby on Rails
@@ -213,7 +213,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Swift
 
-* [raywenderlich](https://github.com/raywenderlich/swift-style-guide) ⭐ 13,146 | 🐛 16 | 📅 2025-04-01
+* [raywenderlich](https://github.com/raywenderlich/swift-style-guide) ⭐ 13,144 | 🐛 16 | 📅 2025-04-01
 * [GitHub](https://github.com/github/swift-style-guide) ⚠️ Archived
 * [Airbnb](https://github.com/airbnb/swift) ⭐ 2,762 | 🐛 2 | 🌐 Markdown | 📅 2026-10-06
 * [SlideShareInc](https://github.com/SlideShareInc/swift-style-guide) ⭐ 93 | 🐛 0 | 📅 2016-06-05
@@ -238,4 +238,4 @@ To the extent possible under law, [Richard Littauer](http://burntfen.com) has wa
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
