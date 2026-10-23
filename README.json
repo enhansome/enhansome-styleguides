@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "NARKOZ",
             "repo": "guides",
-            "stars": 2435,
+            "stars": 2436,
             "topics": [
               "api",
               "awesome",
@@ -105,7 +105,7 @@
                 "open_issues": 5,
                 "owner": "bendc",
                 "repo": "frontend-guidelines",
-                "stars": 9129,
+                "stars": 9128,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -235,10 +235,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-04-16T19:24:09Z",
-                "open_issues": 168,
+                "open_issues": 169,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148051,
+                "stars": 148048,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -270,11 +270,11 @@
                 "id": 1663468,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T20:30:11Z",
-                "open_issues": 463,
+                "last_commit": "2026-10-23T18:29:50Z",
+                "open_issues": 473,
                 "owner": "mozilla",
                 "repo": "pdf.js",
-                "stars": 54034,
+                "stars": 54039,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -295,7 +295,7 @@
                 "open_issues": 128,
                 "owner": "standard",
                 "repo": "standard",
-                "stars": 29424,
+                "stars": 29425,
                 "topics": [
                   "development",
                   "ecmascript",
@@ -419,7 +419,7 @@
                     "open_issues": 1,
                     "owner": "johnpapa",
                     "repo": "angular-styleguide",
-                    "stars": 23595,
+                    "stars": 23594,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:26.678Z"
@@ -567,7 +567,7 @@
                     "open_issues": 30,
                     "owner": "interagent",
                     "repo": "http-api-design",
-                    "stars": 13674,
+                    "stars": 13673,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:26.678Z"
@@ -767,7 +767,7 @@
                 "open_issues": 16,
                 "owner": "bbatsov",
                 "repo": "emacs-lisp-style-guide",
-                "stars": 1136,
+                "stars": 1137,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -816,7 +816,7 @@
                 "open_issues": 22,
                 "owner": "futurice",
                 "repo": "ios-good-practices",
-                "stars": 10980,
+                "stars": 10979,
                 "topics": [
                   "apple",
                   "architecture",
@@ -982,8 +982,8 @@
                 "id": 124593057,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-19T17:04:46Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-23T16:30:18Z",
+                "open_issues": 13,
                 "owner": "wemake-services",
                 "repo": "wemake-python-styleguide",
                 "stars": 2940,
@@ -1149,8 +1149,8 @@
                 "id": 63729462,
                 "language": "Markdown",
                 "license": "MIT",
-                "last_commit": "2026-10-06T17:39:25Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-23T17:36:13Z",
+                "open_issues": 3,
                 "owner": "airbnb",
                 "repo": "swift",
                 "stars": 2763,
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T23:27:17.224Z",
+    "last_updated": "2026-10-23T23:13:37.778Z",
     "original_repository_info": {
       "archived": false,
       "description": ":clipboard: A list of styleguides",

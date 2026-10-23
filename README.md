@@ -51,7 +51,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 # Other Styleguide Lists
 
-* [Narkoz](https://github.com/narkoz/guides) ⭐ 2,435 | 🐛 3 | 📅 2025-07-02
+* [Narkoz](https://github.com/narkoz/guides) ⭐ 2,436 | 🐛 3 | 📅 2025-07-02
 * [SalGnt](https://github.com/SalGnt/cscs) ⭐ 1,505 | 🐛 0 | 📅 2022-10-29
 * [Styleguides.io](https://github.com/maban/styleguides) ⭐ 936 | 🐛 25 | 🌐 HTML | 📅 2026-02-13
 * [Brand Style Guides](https://saijogeorge.com/brand-style-guide-examples/) - A beautiful website that lists where to find other styleguides. Maintained by [@SaijoGeorge](https://twitter.com/SaijoGeorge).
@@ -62,7 +62,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Generic
 
-* [frontend-guidelines](https://github.com/bendc/frontend-guidelines) ⭐ 9,129 | 🐛 5 | 📅 2023-12-30
+* [frontend-guidelines](https://github.com/bendc/frontend-guidelines) ⭐ 9,128 | 🐛 5 | 📅 2023-12-30
 * [isobar](https://isobar-idev.github.io/code-standards/)
 
 ## CSS
@@ -108,9 +108,9 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## JavaScript
 
-* [Airbnb](https://github.com/airbnb/javascript) ⭐ 148,051 | 🐛 168 | 🌐 JavaScript | 📅 2026-04-16
-* [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide) ⭐ 54,034 | 🐛 463 | 🌐 JavaScript | 📅 2026-10-22
-* [feross/standard](https://github.com/feross/standard) ⭐ 29,424 | 🐛 128 | 🌐 JavaScript | 📅 2025-07-11
+* [Airbnb](https://github.com/airbnb/javascript) ⭐ 148,048 | 🐛 169 | 🌐 JavaScript | 📅 2026-04-16
+* [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide) ⭐ 54,039 | 🐛 473 | 🌐 JavaScript | 📅 2026-10-23
+* [feross/standard](https://github.com/feross/standard) ⭐ 29,425 | 🐛 128 | 🌐 JavaScript | 📅 2025-07-11
 * [jscs](https://github.com/jscs-dev/node-jscs) ⚠️ Archived
 * [bevacqua's JS sg](https://github.com/bevacqua/js) ⭐ 2,986 | 🐛 20 | 📅 2023-11-07
 * [Khan](https://github.com/Khan/style-guides/blob/master/style/javascript.md) ⭐ 2,125 | 🐛 10 | 🌐 Shell | 📅 2024-09-06
@@ -121,7 +121,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ### AngularJS
 
-* [johnpapa's opinionated sg for  AngularJS](https://github.com/johnpapa/angular-styleguide) ⭐ 23,595 | 🐛 1 | 🌐 Vim Snippet | 📅 2026-04-30
+* [johnpapa's opinionated sg for  AngularJS](https://github.com/johnpapa/angular-styleguide) ⭐ 23,594 | 🐛 1 | 🌐 Vim Snippet | 📅 2026-04-30
 * [Todd Motto's for AngularJS](https://github.com/toddmotto/angularjs-styleguide) ⭐ 5,904 | 🐛 23 | 📅 2022-08-24
   * [jmcunningham's fork](https://github.com/jmcunningham/angularjs-styleguide)
 * [mgechev's community best practices](https://github.com/mgechev/angularjs-style-guide) ⭐ 4,911 | 🐛 4 | 📅 2019-01-09
@@ -135,7 +135,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ### HTTP Design
 
-* [http-api-design](https://github.com/interagent/http-api-design) ⭐ 13,674 | 🐛 30 | 📅 2024-01-16
+* [http-api-design](https://github.com/interagent/http-api-design) ⭐ 13,673 | 🐛 30 | 📅 2024-01-16
 * [http-api-guide](https://github.com/bolasblack/http-api-guide) ⭐ 2,550 | 🐛 0 | 📅 2025-11-14 - Chinese.
 
 ### JSON
@@ -169,12 +169,12 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Lisp
 
-* [emacs-lips-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide) ⭐ 1,136 | 🐛 16 | 📅 2026-03-31
+* [emacs-lips-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide) ⭐ 1,137 | 🐛 16 | 📅 2026-03-31
 
 ## Objective-C
 
 * [Swift Style Guide by @raywenderlich](https://github.com/raywenderlich/swift-style-guide) ⭐ 13,144 | 🐛 16 | 📅 2025-04-01 - The official Swift style guide for raywenderlich.com.
-* [Futurice iOS Good Practices](https://github.com/futurice/ios-good-practices) ⭐ 10,980 | 🐛 22 | 📅 2024-04-30 - iOS starting guide and good practices suggestions by [@futurice](https://github.com/futurice).
+* [Futurice iOS Good Practices](https://github.com/futurice/ios-good-practices) ⭐ 10,979 | 🐛 22 | 📅 2024-04-30 - iOS starting guide and good practices suggestions by [@futurice](https://github.com/futurice).
 * [NY Times - Objective C Style Guide](https://github.com/NYTimes/objective-c-style-guide) ⚠️ Archived - The Objective-C Style Guide used by The New York Times.
 * [GitHub - Style guide & coding conventions for Swift projects](https://github.com/github/swift-style-guide) ⚠️ Archived A guide to our Swift style and conventions by @github.
 * [raywenderlich Style Guide](https://github.com/raywenderlich/objective-c-style-guide) ⭐ 3,077 | 🐛 22 | 📅 2017-10-01 - A style guide that outlines the coding conventions for raywenderlich.com.
@@ -191,7 +191,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Python
 
-* [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,940 | 🐛 12 | 🌐 Python | 📅 2026-10-19 - The strictest and most opinionated Python styleguide and linter ever.
+* [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,940 | 🐛 13 | 🌐 Python | 📅 2026-10-23 - The strictest and most opinionated Python styleguide and linter ever.
 * [Google](https://google.github.io/styleguide/pyguide.html)
 * [PEP 8 Offical Style Guide for Python](https://pep8.org/)
 * [PEP 257 - Docstring Conventions](http://legacy.python.org/dev/peps/pep-0257/)
@@ -215,7 +215,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 * [raywenderlich](https://github.com/raywenderlich/swift-style-guide) ⭐ 13,144 | 🐛 16 | 📅 2025-04-01
 * [GitHub](https://github.com/github/swift-style-guide) ⚠️ Archived
-* [Airbnb](https://github.com/airbnb/swift) ⭐ 2,763 | 🐛 2 | 🌐 Markdown | 📅 2026-10-06
+* [Airbnb](https://github.com/airbnb/swift) ⭐ 2,763 | 🐛 3 | 🌐 Markdown | 📅 2026-10-23
 * [SlideShareInc](https://github.com/SlideShareInc/swift-style-guide) ⭐ 93 | 🐛 0 | 📅 2016-06-05
 
 # Non-Code
@@ -238,4 +238,4 @@ To the extent possible under law, [Richard Littauer](http://burntfen.com) has wa
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
