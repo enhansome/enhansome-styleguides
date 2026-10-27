@@ -50,7 +50,7 @@
             "open_issues": 0,
             "owner": "SalGnt",
             "repo": "cscs",
-            "stars": 1505,
+            "stars": 1504,
             "topics": [
               "coding-conventions",
               "coding-standards",
@@ -205,7 +205,7 @@
                 "open_issues": 0,
                 "owner": "agis",
                 "repo": "git-style-guide",
-                "stars": 5112,
+                "stars": 5111,
                 "topics": [
                   "git",
                   "style",
@@ -235,10 +235,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-04-16T19:24:09Z",
-                "open_issues": 170,
+                "open_issues": 169,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148046,
+                "stars": 148040,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -270,11 +270,11 @@
                 "id": 1663468,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T21:39:06Z",
-                "open_issues": 462,
+                "last_commit": "2026-10-27T19:39:46Z",
+                "open_issues": 466,
                 "owner": "mozilla",
                 "repo": "pdf.js",
-                "stars": 54049,
+                "stars": 54052,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -295,7 +295,7 @@
                 "open_issues": 128,
                 "owner": "standard",
                 "repo": "standard",
-                "stars": 29428,
+                "stars": 29427,
                 "topics": [
                   "development",
                   "ecmascript",
@@ -348,10 +348,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2023-11-07T14:37:24Z",
-                "open_issues": 20,
+                "open_issues": 19,
                 "owner": "bevacqua",
                 "repo": "js",
-                "stars": 2986,
+                "stars": 2987,
                 "topics": [
                   "javascript",
                   "style-guide"
@@ -419,7 +419,7 @@
                     "open_issues": 1,
                     "owner": "johnpapa",
                     "repo": "angular-styleguide",
-                    "stars": 23595,
+                    "stars": 23593,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:26.678Z"
@@ -511,7 +511,7 @@
                     "open_issues": 2,
                     "owner": "srph",
                     "repo": "angularjs-structure-styleguide",
-                    "stars": 270,
+                    "stars": 269,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:26.678Z"
@@ -567,7 +567,7 @@
                     "open_issues": 30,
                     "owner": "interagent",
                     "repo": "http-api-design",
-                    "stars": 13674,
+                    "stars": 13672,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:26.678Z"
@@ -816,7 +816,7 @@
                 "open_issues": 22,
                 "owner": "futurice",
                 "repo": "ios-good-practices",
-                "stars": 10982,
+                "stars": 10981,
                 "topics": [
                   "apple",
                   "architecture",
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T23:56:28.015Z",
+    "last_updated": "2026-10-27T23:50:50.754Z",
     "original_repository_info": {
       "archived": false,
       "description": ":clipboard: A list of styleguides",
