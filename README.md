@@ -108,8 +108,8 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## JavaScript
 
-* [Airbnb](https://github.com/airbnb/javascript) ⭐ 148,031 | 🐛 169 | 🌐 JavaScript | 📅 2026-04-16
-* [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide) ⭐ 54,086 | 🐛 471 | 🌐 JavaScript | 📅 2026-11-02
+* [Airbnb](https://github.com/airbnb/javascript) ⭐ 148,027 | 🐛 169 | 🌐 JavaScript | 📅 2026-04-16
+* [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide) ⭐ 54,095 | 🐛 474 | 🌐 JavaScript | 📅 2026-11-03
 * [feross/standard](https://github.com/feross/standard) ⭐ 29,426 | 🐛 128 | 🌐 JavaScript | 📅 2025-07-11
 * [jscs](https://github.com/jscs-dev/node-jscs) ⚠️ Archived
 * [bevacqua's JS sg](https://github.com/bevacqua/js) ⭐ 2,986 | 🐛 19 | 📅 2023-11-07
@@ -135,8 +135,8 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ### HTTP Design
 
-* [http-api-design](https://github.com/interagent/http-api-design) ⭐ 13,671 | 🐛 30 | 📅 2024-01-16
-* [http-api-guide](https://github.com/bolasblack/http-api-guide) ⭐ 2,549 | 🐛 0 | 📅 2025-11-14 - Chinese.
+* [http-api-design](https://github.com/interagent/http-api-design) ⭐ 13,672 | 🐛 30 | 📅 2024-01-16
+* [http-api-guide](https://github.com/bolasblack/http-api-guide) ⭐ 2,548 | 🐛 0 | 📅 2025-11-14 - Chinese.
 
 ### JSON
 
@@ -179,7 +179,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [GitHub - Style guide & coding conventions for Swift projects](https://github.com/github/swift-style-guide) ⚠️ Archived A guide to our Swift style and conventions by @github.
 * [raywenderlich Style Guide](https://github.com/raywenderlich/objective-c-style-guide) ⭐ 3,077 | 🐛 22 | 📅 2017-10-01 - A style guide that outlines the coding conventions for raywenderlich.com.
 * [GitHub Objective-C Style Guide](https://github.com/github/objective-c-style-guide) ⚠️ Archived - Style guide & coding conventions for Objective-C projects.
-* [Spotify Objective-C Coding Style](https://github.com/spotify/ios-style) ⭐ 244 | 🐛 0 | 📅 2020-08-10 - Guidelines for iOS development in use at Spotify.
+* [Spotify Objective-C Coding Style](https://github.com/spotify/ios-style) ⭐ 245 | 🐛 0 | 📅 2020-08-10 - Guidelines for iOS development in use at Spotify.
 * [Khan](https://github.com/Khan/objective-c-style-guide) ⚠️ Archived
 * [Dropbox Objective-C Style Guide](https://dl.dropboxusercontent.com/s/5utnlwhr18ax05c/style-guide.html?dl=0)
 * [Objective-C Coding Convention and Best Practices](https://gist.github.com/soffes/812796) - Gist with coding conventions.
@@ -191,7 +191,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Python
 
-* [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,942 | 🐛 13 | 🌐 Python | 📅 2026-11-03 - The strictest and most opinionated Python styleguide and linter ever.
+* [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,942 | 🐛 12 | 🌐 Python | 📅 2026-11-03 - The strictest and most opinionated Python styleguide and linter ever.
 * [Google](https://google.github.io/styleguide/pyguide.html)
 * [PEP 8 Offical Style Guide for Python](https://pep8.org/)
 * [PEP 257 - Docstring Conventions](http://legacy.python.org/dev/peps/pep-0257/)
@@ -199,8 +199,8 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Ruby
 
-* [bbatsov](https://github.com/bbatsov/ruby-style-guide) ⭐ 16,543 | 🐛 77 | 📅 2026-10-30
-* [Airbnb](https://github.com/airbnb/ruby) ⭐ 3,889 | 🐛 17 | 🌐 Ruby | 📅 2025-12-19
+* [bbatsov](https://github.com/bbatsov/ruby-style-guide) ⭐ 16,542 | 🐛 77 | 📅 2026-10-30
+* [Airbnb](https://github.com/airbnb/ruby) ⭐ 3,888 | 🐛 17 | 🌐 Ruby | 📅 2025-12-19
 * [GitHub](https://github.com/styleguide/ruby) - Based on bbatsov style guide.
 
 ### Ruby on Rails
@@ -215,7 +215,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 * [raywenderlich](https://github.com/raywenderlich/swift-style-guide) ⭐ 13,142 | 🐛 16 | 📅 2025-04-01
 * [GitHub](https://github.com/github/swift-style-guide) ⚠️ Archived
-* [Airbnb](https://github.com/airbnb/swift) ⭐ 2,761 | 🐛 1 | 🌐 Markdown | 📅 2026-10-29
+* [Airbnb](https://github.com/airbnb/swift) ⭐ 2,762 | 🐛 3 | 🌐 Markdown | 📅 2026-11-03
 * [SlideShareInc](https://github.com/SlideShareInc/swift-style-guide) ⭐ 93 | 🐛 0 | 📅 2016-06-05
 
 # Non-Code
@@ -238,4 +238,4 @@ To the extent possible under law, [Richard Littauer](http://burntfen.com) has wa
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
