@@ -238,7 +238,7 @@
                 "open_issues": 169,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148022,
+                "stars": 148023,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -270,11 +270,11 @@
                 "id": 1663468,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T14:39:06Z",
-                "open_issues": 483,
+                "last_commit": "2026-11-06T00:21:15Z",
+                "open_issues": 476,
                 "owner": "mozilla",
                 "repo": "pdf.js",
-                "stars": 54098,
+                "stars": 54101,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -295,7 +295,7 @@
                 "open_issues": 128,
                 "owner": "standard",
                 "repo": "standard",
-                "stars": 29422,
+                "stars": 29423,
                 "topics": [
                   "development",
                   "ecmascript",
@@ -982,7 +982,7 @@
                 "id": 124593057,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-04T06:23:25Z",
+                "last_commit": "2026-11-05T06:23:39Z",
                 "open_issues": 12,
                 "owner": "wemake-services",
                 "repo": "wemake-python-styleguide",
@@ -1025,7 +1025,7 @@
                 "open_issues": 77,
                 "owner": "rubocop",
                 "repo": "ruby-style-guide",
-                "stars": 16542,
+                "stars": 16541,
                 "topics": [
                   "rubocop",
                   "ruby",
@@ -1050,7 +1050,7 @@
                 "open_issues": 17,
                 "owner": "airbnb",
                 "repo": "ruby",
-                "stars": 3888,
+                "stars": 3889,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -1073,7 +1073,7 @@
                     "open_issues": 44,
                     "owner": "rubocop",
                     "repo": "rails-style-guide",
-                    "stars": 6502,
+                    "stars": 6501,
                     "topics": [
                       "rails",
                       "rubocop",
@@ -1149,11 +1149,11 @@
                 "id": 63729462,
                 "language": "Markdown",
                 "license": "MIT",
-                "last_commit": "2026-11-03T20:42:26Z",
+                "last_commit": "2026-11-06T00:13:41Z",
                 "open_issues": 3,
                 "owner": "airbnb",
                 "repo": "swift",
-                "stars": 2762,
+                "stars": 2763,
                 "topics": [
                   "ios",
                   "naming-conventions",
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T00:55:55.283Z",
+    "last_updated": "2026-11-06T00:58:53.594Z",
     "original_repository_info": {
       "archived": false,
       "description": ":clipboard: A list of styleguides",
