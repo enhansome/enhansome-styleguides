@@ -105,7 +105,7 @@
                 "open_issues": 5,
                 "owner": "bendc",
                 "repo": "frontend-guidelines",
-                "stars": 9127,
+                "stars": 9130,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -133,7 +133,7 @@
                 "open_issues": 7,
                 "owner": "necolas",
                 "repo": "idiomatic-css",
-                "stars": 6637,
+                "stars": 6636,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -238,7 +238,7 @@
                 "open_issues": 169,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148025,
+                "stars": 148023,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -270,11 +270,11 @@
                 "id": 1663468,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-07T15:42:22Z",
-                "open_issues": 475,
+                "last_commit": "2026-11-08T17:29:27Z",
+                "open_issues": 478,
                 "owner": "mozilla",
                 "repo": "pdf.js",
-                "stars": 54107,
+                "stars": 54111,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -351,7 +351,7 @@
                 "open_issues": 19,
                 "owner": "bevacqua",
                 "repo": "js",
-                "stars": 2985,
+                "stars": 2984,
                 "topics": [
                   "javascript",
                   "style-guide"
@@ -419,7 +419,7 @@
                     "open_issues": 3,
                     "owner": "johnpapa",
                     "repo": "angular-styleguide",
-                    "stars": 23587,
+                    "stars": 23585,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:26.678Z"
@@ -466,7 +466,7 @@
                     "open_issues": 4,
                     "owner": "mgechev",
                     "repo": "angularjs-style-guide",
-                    "stars": 4909,
+                    "stars": 4908,
                     "topics": [
                       "angularjs",
                       "best-practices"
@@ -567,7 +567,7 @@
                     "open_issues": 30,
                     "owner": "interagent",
                     "repo": "http-api-design",
-                    "stars": 13669,
+                    "stars": 13668,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:26.678Z"
@@ -588,7 +588,7 @@
                     "open_issues": 0,
                     "owner": "bolasblack",
                     "repo": "http-api-guide",
-                    "stars": 2548,
+                    "stars": 2546,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:26.678Z"
@@ -1153,7 +1153,7 @@
                 "open_issues": 4,
                 "owner": "airbnb",
                 "repo": "swift",
-                "stars": 2763,
+                "stars": 2765,
                 "topics": [
                   "ios",
                   "naming-conventions",
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T23:40:42.842Z",
+    "last_updated": "2026-11-08T23:47:36.007Z",
     "original_repository_info": {
       "archived": false,
       "description": ":clipboard: A list of styleguides",
@@ -1209,7 +1209,7 @@
       "open_issues": 2,
       "owner": "RichardLitt",
       "repo": "awesome-styleguides",
-      "stars": 739,
+      "stars": 740,
       "topics": [
         "awesome",
         "awesome-list",
