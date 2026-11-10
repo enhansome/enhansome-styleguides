@@ -76,7 +76,7 @@
             "open_issues": 25,
             "owner": "maban",
             "repo": "styleguides",
-            "stars": 936,
+            "stars": 937,
             "topics": []
           },
           "first_seen": "2026-08-28T04:23:26.678Z"
@@ -133,7 +133,7 @@
                 "open_issues": 7,
                 "owner": "necolas",
                 "repo": "idiomatic-css",
-                "stars": 6636,
+                "stars": 6638,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -238,7 +238,7 @@
                 "open_issues": 169,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148023,
+                "stars": 148018,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -270,11 +270,11 @@
                 "id": 1663468,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-08T17:29:27Z",
-                "open_issues": 478,
+                "last_commit": "2026-11-09T21:02:29Z",
+                "open_issues": 474,
                 "owner": "mozilla",
                 "repo": "pdf.js",
-                "stars": 54111,
+                "stars": 54118,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -295,7 +295,7 @@
                 "open_issues": 128,
                 "owner": "standard",
                 "repo": "standard",
-                "stars": 29427,
+                "stars": 29428,
                 "topics": [
                   "development",
                   "ecmascript",
@@ -419,7 +419,7 @@
                     "open_issues": 3,
                     "owner": "johnpapa",
                     "repo": "angular-styleguide",
-                    "stars": 23585,
+                    "stars": 23584,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:26.678Z"
@@ -567,7 +567,7 @@
                     "open_issues": 30,
                     "owner": "interagent",
                     "repo": "http-api-design",
-                    "stars": 13668,
+                    "stars": 13669,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:26.678Z"
@@ -588,7 +588,7 @@
                     "open_issues": 0,
                     "owner": "bolasblack",
                     "repo": "http-api-guide",
-                    "stars": 2546,
+                    "stars": 2545,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:26.678Z"
@@ -795,7 +795,7 @@
                 "open_issues": 15,
                 "owner": "kodecocodes",
                 "repo": "swift-style-guide",
-                "stars": 13140,
+                "stars": 13138,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -982,11 +982,11 @@
                 "id": 124593057,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-07T14:38:45Z",
+                "last_commit": "2026-11-09T17:06:10Z",
                 "open_issues": 12,
                 "owner": "wemake-services",
                 "repo": "wemake-python-styleguide",
-                "stars": 2944,
+                "stars": 2945,
                 "topics": [
                   "code-quality",
                   "flake8",
@@ -1111,7 +1111,7 @@
                 "open_issues": 15,
                 "owner": "kodecocodes",
                 "repo": "swift-style-guide",
-                "stars": 13140,
+                "stars": 13138,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -1153,7 +1153,7 @@
                 "open_issues": 4,
                 "owner": "airbnb",
                 "repo": "swift",
-                "stars": 2765,
+                "stars": 2766,
                 "topics": [
                   "ios",
                   "naming-conventions",
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T23:47:36.007Z",
+    "last_updated": "2026-11-10T02:47:29.155Z",
     "original_repository_info": {
       "archived": false,
       "description": ":clipboard: A list of styleguides",

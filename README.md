@@ -53,7 +53,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 * [Narkoz](https://github.com/narkoz/guides) ⭐ 2,439 | 🐛 3 | 📅 2025-07-02
 * [SalGnt](https://github.com/SalGnt/cscs) ⭐ 1,506 | 🐛 0 | 📅 2022-10-29
-* [Styleguides.io](https://github.com/maban/styleguides) ⭐ 936 | 🐛 25 | 🌐 HTML | 📅 2026-02-13
+* [Styleguides.io](https://github.com/maban/styleguides) ⭐ 937 | 🐛 25 | 🌐 HTML | 📅 2026-02-13
 * [Brand Style Guides](https://saijogeorge.com/brand-style-guide-examples/) - A beautiful website that lists where to find other styleguides. Maintained by [@SaijoGeorge](https://twitter.com/SaijoGeorge).
 * [paulmillr](https://github.com/paulmillr/code-style-guides)
 * [UI Styleguides](http://kevinwuhoo.github.io/ui-styleguides)
@@ -67,7 +67,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## CSS
 
-* [Idiomatic-CSS](https://github.com/necolas/idiomatic-css) ⭐ 6,636 | 🐛 7 | 📅 2022-12-21
+* [Idiomatic-CSS](https://github.com/necolas/idiomatic-css) ⭐ 6,638 | 🐛 7 | 📅 2022-12-21
 * [rscss](https://github.com/rstacruz/rscss) ⭐ 3,906 | 🐛 29 | 📅 2023-06-07 - Reasonable Standard for CSS Stylesheet Structure.
 * [CSS Best Practices](https://github.com/sezgi/CSS-Best-Practices) ⭐ 198 | 🐛 0 | 📅 2015-03-27
 * [CSSWizardry](http://cssguidelin.es/) - This is the best there is. Made by one guy who consults for a lot of companies, this document pretty much sets the standards for how CSS should be used. Highly suggested.
@@ -108,9 +108,9 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## JavaScript
 
-* [Airbnb](https://github.com/airbnb/javascript) ⭐ 148,023 | 🐛 169 | 🌐 JavaScript | 📅 2026-04-16
-* [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide) ⭐ 54,111 | 🐛 478 | 🌐 JavaScript | 📅 2026-11-08
-* [feross/standard](https://github.com/feross/standard) ⭐ 29,427 | 🐛 128 | 🌐 JavaScript | 📅 2025-07-11
+* [Airbnb](https://github.com/airbnb/javascript) ⭐ 148,018 | 🐛 169 | 🌐 JavaScript | 📅 2026-04-16
+* [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide) ⭐ 54,118 | 🐛 474 | 🌐 JavaScript | 📅 2026-11-09
+* [feross/standard](https://github.com/feross/standard) ⭐ 29,428 | 🐛 128 | 🌐 JavaScript | 📅 2025-07-11
 * [jscs](https://github.com/jscs-dev/node-jscs) ⚠️ Archived
 * [bevacqua's JS sg](https://github.com/bevacqua/js) ⭐ 2,984 | 🐛 19 | 📅 2023-11-07
 * [Khan](https://github.com/Khan/style-guides/blob/master/style/javascript.md) ⭐ 2,126 | 🐛 10 | 🌐 Shell | 📅 2024-09-06
@@ -121,7 +121,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ### AngularJS
 
-* [johnpapa's opinionated sg for  AngularJS](https://github.com/johnpapa/angular-styleguide) ⭐ 23,585 | 🐛 3 | 🌐 Vim Snippet | 📅 2026-04-30
+* [johnpapa's opinionated sg for  AngularJS](https://github.com/johnpapa/angular-styleguide) ⭐ 23,584 | 🐛 3 | 🌐 Vim Snippet | 📅 2026-04-30
 * [Todd Motto's for AngularJS](https://github.com/toddmotto/angularjs-styleguide) ⭐ 5,904 | 🐛 23 | 📅 2022-08-24
   * [jmcunningham's fork](https://github.com/jmcunningham/angularjs-styleguide)
 * [mgechev's community best practices](https://github.com/mgechev/angularjs-style-guide) ⭐ 4,908 | 🐛 4 | 📅 2019-01-09
@@ -135,8 +135,8 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ### HTTP Design
 
-* [http-api-design](https://github.com/interagent/http-api-design) ⭐ 13,668 | 🐛 30 | 📅 2024-01-16
-* [http-api-guide](https://github.com/bolasblack/http-api-guide) ⭐ 2,546 | 🐛 0 | 📅 2025-11-14 - Chinese.
+* [http-api-design](https://github.com/interagent/http-api-design) ⭐ 13,669 | 🐛 30 | 📅 2024-01-16
+* [http-api-guide](https://github.com/bolasblack/http-api-guide) ⭐ 2,545 | 🐛 0 | 📅 2025-11-14 - Chinese.
 
 ### JSON
 
@@ -173,7 +173,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Objective-C
 
-* [Swift Style Guide by @raywenderlich](https://github.com/raywenderlich/swift-style-guide) ⭐ 13,140 | 🐛 15 | 📅 2025-04-01 - The official Swift style guide for raywenderlich.com.
+* [Swift Style Guide by @raywenderlich](https://github.com/raywenderlich/swift-style-guide) ⭐ 13,138 | 🐛 15 | 📅 2025-04-01 - The official Swift style guide for raywenderlich.com.
 * [Futurice iOS Good Practices](https://github.com/futurice/ios-good-practices) ⭐ 10,980 | 🐛 22 | 📅 2024-04-30 - iOS starting guide and good practices suggestions by [@futurice](https://github.com/futurice).
 * [NY Times - Objective C Style Guide](https://github.com/NYTimes/objective-c-style-guide) ⚠️ Archived - The Objective-C Style Guide used by The New York Times.
 * [GitHub - Style guide & coding conventions for Swift projects](https://github.com/github/swift-style-guide) ⚠️ Archived A guide to our Swift style and conventions by @github.
@@ -191,7 +191,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Python
 
-* [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,944 | 🐛 12 | 🌐 Python | 📅 2026-11-07 - The strictest and most opinionated Python styleguide and linter ever.
+* [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,945 | 🐛 12 | 🌐 Python | 📅 2026-11-09 - The strictest and most opinionated Python styleguide and linter ever.
 * [Google](https://google.github.io/styleguide/pyguide.html)
 * [PEP 8 Offical Style Guide for Python](https://pep8.org/)
 * [PEP 257 - Docstring Conventions](http://legacy.python.org/dev/peps/pep-0257/)
@@ -213,9 +213,9 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Swift
 
-* [raywenderlich](https://github.com/raywenderlich/swift-style-guide) ⭐ 13,140 | 🐛 15 | 📅 2025-04-01
+* [raywenderlich](https://github.com/raywenderlich/swift-style-guide) ⭐ 13,138 | 🐛 15 | 📅 2025-04-01
 * [GitHub](https://github.com/github/swift-style-guide) ⚠️ Archived
-* [Airbnb](https://github.com/airbnb/swift) ⭐ 2,765 | 🐛 4 | 🌐 Markdown | 📅 2026-11-06
+* [Airbnb](https://github.com/airbnb/swift) ⭐ 2,766 | 🐛 4 | 🌐 Markdown | 📅 2026-11-06
 * [SlideShareInc](https://github.com/SlideShareInc/swift-style-guide) ⭐ 93 | 🐛 0 | 📅 2016-06-05
 
 # Non-Code
@@ -238,4 +238,4 @@ To the extent possible under law, [Richard Littauer](http://burntfen.com) has wa
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
