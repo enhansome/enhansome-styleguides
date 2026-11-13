@@ -46,7 +46,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 # How to build a styleguide
 
 * [A Maintainable Style Guide](http://ianfeather.co.uk/a-maintainable-style-guide/) - By Ian Feather of Lonely Planet, advocates Style Guide Driven Development, which is pretty snazzy.
-* [Huge's Styleguide Tool](https://github.com/hugeinc/styleguide) ⭐ 1,845 | 🐛 16 | 🌐 JavaScript | 📅 2018-05-27 - A tool to make creating and maintaining style guides easy. Looks pretty decent, with a few uses cases and a significant following on GitHub.
+* [Huge's Styleguide Tool](https://github.com/hugeinc/styleguide) ⭐ 1,844 | 🐛 16 | 🌐 JavaScript | 📅 2018-05-27 - A tool to make creating and maintaining style guides easy. Looks pretty decent, with a few uses cases and a significant following on GitHub.
 * [An In-Depth Overview Of Living Style Guide Tools](http://www.smashingmagazine.com/2015/04/an-in-depth-overview-of-living-style-guide-tools/) - A good overview of what is out there.
 
 # Other Styleguide Lists
@@ -92,7 +92,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Git
 
-* [agis-](https://github.com/agis-/git-style-guide) ⭐ 5,107 | 🐛 0 | 📅 2022-09-26
+* [agis-](https://github.com/agis-/git-style-guide) ⭐ 5,106 | 🐛 0 | 📅 2022-09-26
 * [Udacity](https://udacity.github.io/git-styleguide/) - Git Commit Message Style Guide from Udacity.
 
 ## HTML
@@ -108,11 +108,11 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## JavaScript
 
-* [Airbnb](https://github.com/airbnb/javascript) ⭐ 148,010 | 🐛 169 | 🌐 JavaScript | 📅 2026-04-16
-* [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide) ⭐ 54,124 | 🐛 480 | 🌐 JavaScript | 📅 2026-11-11
+* [Airbnb](https://github.com/airbnb/javascript) ⭐ 148,009 | 🐛 169 | 🌐 JavaScript | 📅 2026-04-16
+* [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide) ⭐ 54,125 | 🐛 475 | 🌐 JavaScript | 📅 2026-11-13
 * [feross/standard](https://github.com/feross/standard) ⭐ 29,430 | 🐛 128 | 🌐 JavaScript | 📅 2025-07-11
 * [jscs](https://github.com/jscs-dev/node-jscs) ⚠️ Archived
-* [bevacqua's JS sg](https://github.com/bevacqua/js) ⭐ 2,984 | 🐛 19 | 📅 2023-11-07
+* [bevacqua's JS sg](https://github.com/bevacqua/js) ⭐ 2,983 | 🐛 19 | 📅 2023-11-07
 * [Khan](https://github.com/Khan/style-guides/blob/master/style/javascript.md) ⭐ 2,126 | 🐛 10 | 🌐 Shell | 📅 2024-09-06
 * [rsjs](https://github.com/rstacruz/rsjs) ⭐ 207 | 🐛 5 | 📅 2024-11-29 - Reasonable Standard for JavaScript Structure.
 * [Google](https://google.github.io/styleguide/jsguide.html)
@@ -135,7 +135,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ### HTTP Design
 
-* [http-api-design](https://github.com/interagent/http-api-design) ⭐ 13,669 | 🐛 30 | 📅 2024-01-16
+* [http-api-design](https://github.com/interagent/http-api-design) ⭐ 13,668 | 🐛 30 | 📅 2024-01-16
 * [http-api-guide](https://github.com/bolasblack/http-api-guide) ⭐ 2,545 | 🐛 0 | 📅 2025-11-14 - Chinese.
 
 ### JSON
@@ -191,7 +191,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Python
 
-* [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,946 | 🐛 12 | 🌐 Python | 📅 2026-11-09 - The strictest and most opinionated Python styleguide and linter ever.
+* [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,947 | 🐛 13 | 🌐 Python | 📅 2026-11-09 - The strictest and most opinionated Python styleguide and linter ever.
 * [Google](https://google.github.io/styleguide/pyguide.html)
 * [PEP 8 Offical Style Guide for Python](https://pep8.org/)
 * [PEP 257 - Docstring Conventions](http://legacy.python.org/dev/peps/pep-0257/)
@@ -199,7 +199,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Ruby
 
-* [bbatsov](https://github.com/bbatsov/ruby-style-guide) ⭐ 16,541 | 🐛 77 | 📅 2026-10-30
+* [bbatsov](https://github.com/bbatsov/ruby-style-guide) ⭐ 16,542 | 🐛 77 | 📅 2026-10-30
 * [Airbnb](https://github.com/airbnb/ruby) ⭐ 3,888 | 🐛 17 | 🌐 Ruby | 📅 2025-12-19
 * [GitHub](https://github.com/styleguide/ruby) - Based on bbatsov style guide.
 
@@ -238,4 +238,4 @@ To the extent possible under law, [Richard Littauer](http://burntfen.com) has wa
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._

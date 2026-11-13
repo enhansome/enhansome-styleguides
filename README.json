@@ -205,7 +205,7 @@
                 "open_issues": 0,
                 "owner": "agis",
                 "repo": "git-style-guide",
-                "stars": 5107,
+                "stars": 5106,
                 "topics": [
                   "git",
                   "style",
@@ -238,7 +238,7 @@
                 "open_issues": 169,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148010,
+                "stars": 148009,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -270,11 +270,11 @@
                 "id": 1663468,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T23:21:41Z",
-                "open_issues": 480,
+                "last_commit": "2026-11-13T00:20:44Z",
+                "open_issues": 475,
                 "owner": "mozilla",
                 "repo": "pdf.js",
-                "stars": 54124,
+                "stars": 54125,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -351,7 +351,7 @@
                 "open_issues": 19,
                 "owner": "bevacqua",
                 "repo": "js",
-                "stars": 2984,
+                "stars": 2983,
                 "topics": [
                   "javascript",
                   "style-guide"
@@ -567,7 +567,7 @@
                     "open_issues": 30,
                     "owner": "interagent",
                     "repo": "http-api-design",
-                    "stars": 13669,
+                    "stars": 13668,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:26.678Z"
@@ -983,10 +983,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-09T17:06:10Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "wemake-services",
                 "repo": "wemake-python-styleguide",
-                "stars": 2946,
+                "stars": 2947,
                 "topics": [
                   "code-quality",
                   "flake8",
@@ -1025,7 +1025,7 @@
                 "open_issues": 77,
                 "owner": "rubocop",
                 "repo": "ruby-style-guide",
-                "stars": 16541,
+                "stars": 16542,
                 "topics": [
                   "rubocop",
                   "ruby",
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T01:55:57.168Z",
+    "last_updated": "2026-11-13T01:11:58.352Z",
     "original_repository_info": {
       "archived": false,
       "description": ":clipboard: A list of styleguides",
