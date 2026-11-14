@@ -105,7 +105,7 @@
                 "open_issues": 5,
                 "owner": "bendc",
                 "repo": "frontend-guidelines",
-                "stars": 9133,
+                "stars": 9132,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -238,7 +238,7 @@
                 "open_issues": 169,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148009,
+                "stars": 148007,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -270,11 +270,11 @@
                 "id": 1663468,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T21:16:36Z",
-                "open_issues": 473,
+                "last_commit": "2026-11-14T21:13:23Z",
+                "open_issues": 470,
                 "owner": "mozilla",
                 "repo": "pdf.js",
-                "stars": 54128,
+                "stars": 54134,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -295,7 +295,7 @@
                 "open_issues": 128,
                 "owner": "standard",
                 "repo": "standard",
-                "stars": 29428,
+                "stars": 29427,
                 "topics": [
                   "development",
                   "ecmascript",
@@ -351,7 +351,7 @@
                 "open_issues": 19,
                 "owner": "bevacqua",
                 "repo": "js",
-                "stars": 2983,
+                "stars": 2984,
                 "topics": [
                   "javascript",
                   "style-guide"
@@ -375,7 +375,7 @@
                 "open_issues": 10,
                 "owner": "Khan",
                 "repo": "style-guides",
-                "stars": 2126,
+                "stars": 2125,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -419,7 +419,7 @@
                     "open_issues": 3,
                     "owner": "johnpapa",
                     "repo": "angular-styleguide",
-                    "stars": 23584,
+                    "stars": 23583,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:26.678Z"
@@ -700,7 +700,7 @@
                     "open_issues": 10,
                     "owner": "Khan",
                     "repo": "style-guides",
-                    "stars": 2126,
+                    "stars": 2125,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:26.678Z"
@@ -868,7 +868,7 @@
                 "open_issues": 4,
                 "owner": "github",
                 "repo": "swift-style-guide",
-                "stars": 4750,
+                "stars": 4749,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -986,7 +986,7 @@
                 "open_issues": 13,
                 "owner": "wemake-services",
                 "repo": "wemake-python-styleguide",
-                "stars": 2949,
+                "stars": 2948,
                 "topics": [
                   "code-quality",
                   "flake8",
@@ -1050,7 +1050,7 @@
                 "open_issues": 17,
                 "owner": "airbnb",
                 "repo": "ruby",
-                "stars": 3887,
+                "stars": 3885,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -1132,7 +1132,7 @@
                 "open_issues": 4,
                 "owner": "github",
                 "repo": "swift-style-guide",
-                "stars": 4750,
+                "stars": 4749,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T00:55:03.100Z",
+    "last_updated": "2026-11-14T23:58:36.720Z",
     "original_repository_info": {
       "archived": false,
       "description": ":clipboard: A list of styleguides",
