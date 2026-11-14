@@ -205,7 +205,7 @@
                 "open_issues": 0,
                 "owner": "agis",
                 "repo": "git-style-guide",
-                "stars": 5106,
+                "stars": 5105,
                 "topics": [
                   "git",
                   "style",
@@ -270,11 +270,11 @@
                 "id": 1663468,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T00:20:44Z",
-                "open_issues": 475,
+                "last_commit": "2026-11-13T21:16:36Z",
+                "open_issues": 473,
                 "owner": "mozilla",
                 "repo": "pdf.js",
-                "stars": 54125,
+                "stars": 54128,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -295,7 +295,7 @@
                 "open_issues": 128,
                 "owner": "standard",
                 "repo": "standard",
-                "stars": 29430,
+                "stars": 29428,
                 "topics": [
                   "development",
                   "ecmascript",
@@ -419,7 +419,7 @@
                     "open_issues": 3,
                     "owner": "johnpapa",
                     "repo": "angular-styleguide",
-                    "stars": 23585,
+                    "stars": 23584,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:26.678Z"
@@ -795,7 +795,7 @@
                 "open_issues": 15,
                 "owner": "kodecocodes",
                 "repo": "swift-style-guide",
-                "stars": 13141,
+                "stars": 13140,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -816,7 +816,7 @@
                 "open_issues": 22,
                 "owner": "futurice",
                 "repo": "ios-good-practices",
-                "stars": 10979,
+                "stars": 10980,
                 "topics": [
                   "apple",
                   "architecture",
@@ -868,7 +868,7 @@
                 "open_issues": 4,
                 "owner": "github",
                 "repo": "swift-style-guide",
-                "stars": 4751,
+                "stars": 4750,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -982,11 +982,11 @@
                 "id": 124593057,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-09T17:06:10Z",
+                "last_commit": "2026-11-13T20:52:58Z",
                 "open_issues": 13,
                 "owner": "wemake-services",
                 "repo": "wemake-python-styleguide",
-                "stars": 2947,
+                "stars": 2949,
                 "topics": [
                   "code-quality",
                   "flake8",
@@ -1025,7 +1025,7 @@
                 "open_issues": 77,
                 "owner": "rubocop",
                 "repo": "ruby-style-guide",
-                "stars": 16542,
+                "stars": 16540,
                 "topics": [
                   "rubocop",
                   "ruby",
@@ -1050,7 +1050,7 @@
                 "open_issues": 17,
                 "owner": "airbnb",
                 "repo": "ruby",
-                "stars": 3888,
+                "stars": 3887,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -1073,7 +1073,7 @@
                     "open_issues": 44,
                     "owner": "rubocop",
                     "repo": "rails-style-guide",
-                    "stars": 6502,
+                    "stars": 6501,
                     "topics": [
                       "rails",
                       "rubocop",
@@ -1111,7 +1111,7 @@
                 "open_issues": 15,
                 "owner": "kodecocodes",
                 "repo": "swift-style-guide",
-                "stars": 13141,
+                "stars": 13140,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -1132,7 +1132,7 @@
                 "open_issues": 4,
                 "owner": "github",
                 "repo": "swift-style-guide",
-                "stars": 4751,
+                "stars": 4750,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:26.678Z"
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T01:11:58.352Z",
+    "last_updated": "2026-11-14T00:55:03.100Z",
     "original_repository_info": {
       "archived": false,
       "description": ":clipboard: A list of styleguides",
